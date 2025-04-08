@@ -1,5 +1,6 @@
 input/raw/*
 input/imputed/*
 input/transformed/*
+input/processed/*
 scratch.ipynb
 __pycache__
