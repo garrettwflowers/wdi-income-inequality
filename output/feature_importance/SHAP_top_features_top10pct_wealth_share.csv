@@ -1,0 +1,21 @@
+Feature,Indicator Name,Importance
+SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),612.4079443859999
+TM.TAX.MANF.BR.ZS,"Bound rate, simple mean, manufactured products (%)",468.0770319100001
+TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),141.38185871999997
+VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)",140.49967896599998
+SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",123.599177544
+SH.HIV.INCD.ZS,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",78.08394896749999
+SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),55.367800488200004
+TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),39.30232029575
+VC.IHR.PSRC.MA.P5,"Intentional homicides, male (per 100,000 male)",38.4275195153
+SH.HIV.1524.MA.ZS,"Prevalence of HIV, male (% ages 15-24)",35.469393204
+EN.POP.DNST,Population density (people per sq. km of land area),32.2492811915
+NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",31.337735270640003
+TM.TAX.MRCH.BR.ZS,"Bound rate, simple mean, all products (%)",27.028625933
+SH.XPD.GHED.CH.ZS,Domestic general government health expenditure (% of current health expenditure),25.930537364099997
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",23.211055532946
+SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $25/day),22.4598123997
+EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),21.59967662967
+EN.FSH.THRD.NO,"Fish species, threatened",20.813913065
+ER.H2O.FWST.ZS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,20.79447294681
+SL.EMP.MPYR.MA.ZS,"Employers, male (% of male employment) (modeled ILO estimate)",19.81490440296

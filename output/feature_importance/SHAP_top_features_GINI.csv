@@ -1,0 +1,21 @@
+Feature,Indicator Name,Importance
+SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),1358.3140434690001
+TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),375.64289244
+SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",223.1535191
+TM.TAX.MANF.BR.ZS,"Bound rate, simple mean, manufactured products (%)",135.64265026699996
+SH.HIV.INCD.ZS,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",130.54874737260002
+TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),124.03261414900001
+SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),77.6824061266
+VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)",67.90722048020001
+NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",48.59329869130001
+per_si_allsi.ben_q1_tot,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),42.883839574199996
+SI.POV.UMIC,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),40.266060933700004
+SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $25/day),39.9930690878
+EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),34.822767780999996
+TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),34.423349430369996
+SL.EMP.MPYR.MA.ZS,"Employers, male (% of male employment) (modeled ILO estimate)",30.5184502822
+SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",30.450732287
+PA.NUS.PPPC.RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate,26.2734605615
+SE.PRM.DURS,"Primary education, duration (years)",26.192669999999996
+SM.POP.TOTL.ZS,International migrant stock (% of population),25.9491724664
+SH.STA.BRTW.ZS,Low-birthweight babies (% of births),25.029778893699998
