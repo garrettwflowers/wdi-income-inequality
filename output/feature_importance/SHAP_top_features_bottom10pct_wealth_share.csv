@@ -1,21 +1,3 @@
-Feature,Indicator Name,Importance
-SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),93.05819334899999
-SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),80.6105353821
-TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),47.777423827999996
-TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),44.3542460852
-ER.GDP.FWTL.M3.KD,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",13.236450173
-SI.POV.UMIC,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),12.309367222439999
-SH.PRV.SMOK.MA,"Prevalence of current tobacco use, males (% of male adults)",9.527538612199999
-SI.POV.DDAY,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),7.355816698
-PA.NUS.PPPC.RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate,5.8051507676
-SL.EMP.MPYR.FE.ZS,"Employers, female (% of female employment) (modeled ILO estimate)",5.6641005922000005
-SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $25/day),4.74093817085
-ER.H2O.FWST.ZS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,4.57933527442
-SH.HIV.INCD.ZS,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",4.50244726759
-EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),4.3080664859999995
-AG.LND.FRST.ZS,Forest area (% of land area),4.281854225148
-EN.POP.DNST,Population density (people per sq. km of land area),4.1140009948
-SH.STA.WAST.MA.ZS,"Prevalence of wasting, weight for height, male (% of children under 5)",4.0416298358
-IC.BUS.NREG,New businesses registered (number),4.03310384724
-AG.LND.FRST.K2,Forest area (sq. km),3.86363277266
-DC.DAC.KORL.CD,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",3.82884332938
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ca84d951c19bac0c19a61d4c6e8cac4abdb510cfffdbe78d0d56fc5cc40191
+size 2032
