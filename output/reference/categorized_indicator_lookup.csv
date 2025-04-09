@@ -1,0 +1,1497 @@
+Indicator Name,Indicator Code,Category,Potential_Categories,Enhanced_Category
+Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,Demographics,"['Demographics', 'Technology']",Demographics
+"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,Agriculture,"['Agriculture', 'Demographics', 'Technology']",Agriculture
+"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics', 'Technology']",Infrastructure
+Access to electricity (% of population),EG.ELC.ACCS.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,Agriculture,"['Agriculture', 'Infrastructure', 'Demographics']",Agriculture
+"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,Economic,"['Economic', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,Economic,"['Economic', 'Infrastructure', 'Demographics', 'Gender', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,Economic,"['Economic', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,Economic,"['Economic', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,Economic,"['Economic', 'Poverty', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,Economic,"['Economic', 'Education', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,Economic,"['Economic', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,Economic,"['Economic', 'Education', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,Economic,"['Economic', 'Infrastructure', 'Demographics', 'Governance', 'Technology', 'Financial Services']",Financial Services
+Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,Education,"['Education', 'Demographics']",Education
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,Education,"['Education', 'Demographics', 'Gender']",Education
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,Education,"['Education', 'Demographics']",Education
+Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,Economic,['Economic'],Economic
+Adjusted net national income (constant 2015 US$),NY.ADJ.NNTY.KD,Economic,['Economic'],Economic
+Adjusted net national income (current US$),NY.ADJ.NNTY.CD,Economic,['Economic'],Economic
+Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG,Economic,['Economic'],Economic
+Adjusted net national income per capita (constant 2015 US$),NY.ADJ.NNTY.PC.KD,Economic,['Economic'],Economic
+Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD,Economic,['Economic'],Economic
+"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS,Economic,['Economic'],Economic
+Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD,Economic,['Economic'],Economic
+Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS,Economic,"['Economic', 'Education']",Education
+Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD,Economic,"['Economic', 'Education']",Education
+Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,Economic,"['Economic', 'Climate']",Economic
+Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,Economic,"['Economic', 'Climate']",Economic
+Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS,Economic,['Economic'],Economic
+Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,Economic,"['Economic', 'Natural Resources']",Economic
+Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,Economic,"['Economic', 'Natural Resources']",Economic
+Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,Economic,"['Economic', 'Natural Resources']",Economic
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Economic,"['Economic', 'Climate']",Economic
+Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD,Economic,"['Economic', 'Climate']",Economic
+Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,Economic,['Economic'],Economic
+Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD,Economic,['Economic'],Economic
+Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD,Economic,"['Economic', 'Climate', 'Demographics']",Climate
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,Education,"['Education', 'Demographics']",Education
+"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,Education,"['Education', 'Demographics']",Education
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Age dependency ratio (% of working-age population),SP.POP.DPND,Demographics,['Demographics'],Demographics
+"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,Demographics,['Demographics'],Demographics
+"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,Demographics,['Demographics'],Demographics
+Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,Agriculture,['Agriculture'],Agriculture
+Agricultural land (% of land area),AG.LND.AGRI.ZS,Agriculture,['Agriculture'],Agriculture
+Agricultural land (sq. km),AG.LND.AGRI.K2,Agriculture,['Agriculture'],Agriculture
+Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,Economic,"['Economic', 'Agriculture']",Economic
+Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Economic,"['Economic', 'Agriculture']",Economic
+"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,Economic,"['Economic', 'Climate', 'Agriculture']",Economic
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Climate,"['Climate', 'Agriculture']",Climate
+"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,Climate,"['Climate', 'Agriculture']",Climate
+"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,Climate,"['Climate', 'Agriculture']",Climate
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Climate,"['Climate', 'Agriculture']",Climate
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Climate,"['Climate', 'Agriculture']",Climate
+"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,Climate,"['Climate', 'Agriculture']",Climate
+"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,Infrastructure,['Infrastructure'],Infrastructure
+"Air transport, passengers carried",IS.AIR.PSGR,Infrastructure,['Infrastructure'],Infrastructure
+"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,Infrastructure,"['Infrastructure', 'Tourism & Travel']",Infrastructure
+Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,Climate,['Climate'],Climate
+"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Agriculture,"['Agriculture', 'Infrastructure', 'Natural Resources']",Agriculture
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Infrastructure,"['Infrastructure', 'Natural Resources']",Infrastructure
+"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Infrastructure,"['Infrastructure', 'Natural Resources']",Infrastructure
+"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Infrastructure,"['Infrastructure', 'Natural Resources']",Infrastructure
+"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Infrastructure,"['Infrastructure', 'Natural Resources']",Infrastructure
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,Economic,"['Economic', 'Poverty', 'Demographics']",Economic
+"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,Economic,"['Economic', 'Demographics']",Economic
+Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+Aquaculture production (metric tons),ER.FSH.AQUA.MT,Agriculture,['Agriculture'],Agriculture
+Arable land (% of land area),AG.LND.ARBL.ZS,Agriculture,['Agriculture'],Agriculture
+Arable land (hectares per person),AG.LND.ARBL.HA.PC,Agriculture,['Agriculture'],Agriculture
+Arable land (hectares),AG.LND.ARBL.HA,Agriculture,['Agriculture'],Agriculture
+ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,Healthcare,"['Healthcare', 'Financial Services']",Financial Services
+Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,Labor,"['Labor', 'Military']",Labor
+"Armed forces personnel, total",MS.MIL.TOTL.P1,Military,['Military'],Military
+Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,Economic,"['Economic', 'Military']",Economic
+Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,Economic,"['Economic', 'Military']",Economic
+"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,Financial Services,['Financial Services'],Financial Services
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM,Demographics,['Demographics'],Demographics
+Average time to clear exports through customs (days),IC.CUS.DURS.EX,Economic,"['Economic', 'Demographics']",Economic
+Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS,Demographics,"['Demographics', 'Financial Services']",Demographics
+Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS,Demographics,"['Demographics', 'Financial Services']",Demographics
+"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,Demographics,"['Demographics', 'Labor']",Demographics
+"Average working hours of children, study and work, female, ages 7-14 (hours per week)",SL.TLF.0714.SW.FE.TM,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Average working hours of children, study and work, male, ages 7-14 (hours per week)",SL.TLF.0714.SW.MA.TM,Demographics,"['Demographics', 'Labor']",Demographics
+"Average working hours of children, working only, ages 7-14 (hours per week)",SL.TLF.0714.WK.TM,Demographics,"['Demographics', 'Labor']",Demographics
+"Average working hours of children, working only, female, ages 7-14 (hours per week)",SL.TLF.0714.WK.FE.TM,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Average working hours of children, working only, male, ages 7-14 (hours per week)",SL.TLF.0714.WK.MA.TM,Demographics,"['Demographics', 'Labor']",Demographics
+Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Battle-related deaths (number of people),VC.BTL.DETH,Healthcare,"['Healthcare', 'Demographics', 'Military']",Healthcare
+Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),per_si_allsi.ben_q1_tot,Poverty,"['Poverty', 'Financial Services']",Poverty
+Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),per_allsp.ben_q1_tot,Poverty,"['Poverty', 'Labor']",Poverty
+Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),per_sa_allsa.ben_q1_tot,Poverty,['Poverty'],Poverty
+Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),per_lm_alllm.ben_q1_tot,Poverty,"['Poverty', 'Labor']",Poverty
+"Binding coverage, all products (%)",TM.TAX.MRCH.BC.ZS,Economic,"['Economic', 'Demographics']",Economic
+"Binding coverage, manufactured products (%)",TM.TAX.MANF.BC.ZS,Economic,"['Economic', 'Demographics', 'Manufacturing']",Economic
+"Binding coverage, primary products (%)",TM.TAX.TCOM.BC.ZS,Economic,"['Economic', 'Education', 'Demographics']",Economic
+"Bird species, threatened",EN.BIR.THRD.NO,Natural Resources,['Natural Resources'],Natural Resources
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,Economic,"['Economic', 'Financial Services']",Financial Services
+"Bound rate, simple mean, all products (%)",TM.TAX.MRCH.BR.ZS,Economic,['Economic'],Economic
+"Bound rate, simple mean, manufactured products (%)",TM.TAX.MANF.BR.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Bound rate, simple mean, primary products (%)",TM.TAX.TCOM.BR.ZS,Economic,"['Economic', 'Education']",Economic
+Bribery incidence (% of firms experiencing at least one bribe payment request),IC.FRM.BRIB.ZS,Economic,"['Economic', 'Law & Justice']",Law & Justice
+Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Economic,"['Economic', 'Infrastructure']",Economic
+Broad money (current LCU),FM.LBL.BMNY.CN,Economic,"['Economic', 'Infrastructure']",Economic
+Broad money growth (annual %),FM.LBL.BMNY.ZG,Economic,"['Economic', 'Infrastructure']",Economic
+Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Economic,"['Economic', 'Infrastructure']",Economic
+Business extent of disclosure index (0=less disclosure to 10=more disclosure),IC.BUS.DISC.XQ,Economic,['Economic'],Economic
+Capture fisheries production (metric tons),ER.FSH.CAPT.MT,Agriculture,['Agriculture'],Agriculture
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,Climate,"['Climate', 'Agriculture']",Climate
+Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,Climate,"['Climate', 'Infrastructure']",Climate
+Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,Climate,"['Climate', 'Infrastructure']",Climate
+Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,Climate,"['Climate', 'Agriculture']",Climate
+Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,Climate,"['Climate', 'Agriculture']",Climate
+Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,Climate,['Climate'],Climate
+Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,Economic,"['Economic', 'Climate']",Climate
+Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,Economic,"['Economic', 'Climate']",Climate
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,Economic,"['Economic', 'Governance']",Economic
+"Central government debt, total (current LCU)",GC.DOD.TOTL.CN,Economic,"['Economic', 'Governance']",Economic
+Cereal production (metric tons),AG.PRD.CREL.MT,Agriculture,['Agriculture'],Agriculture
+Cereal yield (kg per hectare),AG.YLD.CREL.KG,Agriculture,['Agriculture'],Agriculture
+Changes in inventories (constant LCU),NE.GDI.STKB.KN,Economic,['Economic'],Economic
+Changes in inventories (current LCU),NE.GDI.STKB.CN,Economic,['Economic'],Economic
+Changes in inventories (current US$),NE.GDI.STKB.CD,Economic,['Economic'],Economic
+"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD,Financial Services,['Financial Services'],Financial Services
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Financial Services,['Financial Services'],Financial Services
+Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN,Manufacturing,['Manufacturing'],Manufacturing
+Child employment in agriculture (% of economically active children ages 7-14),SL.AGR.0714.ZS,Economic,"['Economic', 'Agriculture', 'Demographics', 'Labor']",Economic
+"Child employment in agriculture, female (% of female economically active children ages 7-14)",SL.AGR.0714.FE.ZS,Economic,"['Economic', 'Agriculture', 'Demographics', 'Labor', 'Gender']",Gender
+"Child employment in agriculture, male (% of male economically active children ages 7-14)",SL.AGR.0714.MA.ZS,Economic,"['Economic', 'Agriculture', 'Demographics', 'Labor']",Economic
+Child employment in manufacturing (% of economically active children ages 7-14),SL.MNF.0714.ZS,Economic,"['Economic', 'Demographics', 'Labor', 'Manufacturing']",Manufacturing
+"Child employment in manufacturing, female (% of female economically active children ages 7-14)",SL.MNF.0714.FE.ZS,Economic,"['Economic', 'Demographics', 'Labor', 'Gender', 'Manufacturing']",Manufacturing
+"Child employment in manufacturing, male (% of male economically active children ages 7-14)",SL.MNF.0714.MA.ZS,Economic,"['Economic', 'Demographics', 'Labor', 'Manufacturing']",Manufacturing
+Child employment in services (% of economically active children ages 7-14),SL.SRV.0714.ZS,Economic,"['Economic', 'Demographics', 'Labor']",Economic
+"Child employment in services, female (% of female economically active children ages 7-14)",SL.SRV.0714.FE.ZS,Economic,"['Economic', 'Demographics', 'Labor', 'Gender']",Gender
+"Child employment in services, male (% of male economically active children ages 7-14)",SL.SRV.0714.MA.ZS,Economic,"['Economic', 'Demographics', 'Labor']",Economic
+Children (0-14) living with HIV,SH.HIV.0014,Healthcare,['Healthcare'],Healthcare
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, self-employed (% of children in employment, ages 7-14)",SL.SLF.0714.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",SL.SLF.0714.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",SL.SLF.0714.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",SL.FAM.0714.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",SL.FAM.0714.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",SL.FAM.0714.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",SL.WAG.0714.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",SL.WAG.0714.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+Children out of school (% of primary school age),SE.PRM.UNER.ZS,Education,"['Education', 'Demographics']",Education
+"Children out of school, female (% of female primary school age)",SE.PRM.UNER.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Children out of school, male (% of male primary school age)",SE.PRM.UNER.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Children out of school, primary",SE.PRM.UNER,Education,['Education'],Education
+"Children out of school, primary, female",SE.PRM.UNER.FE,Education,"['Education', 'Gender']",Education
+"Children out of school, primary, male",SE.PRM.UNER.MA,Education,['Education'],Education
+Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Economic,"['Economic', 'Infrastructure', 'Governance']",Economic
+"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,Economic,"['Economic', 'Governance']",Economic
+Claims on other sectors of the domestic economy (% of GDP),FS.AST.DOMO.GD.ZS,Economic,['Economic'],Economic
+Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Economic,"['Economic', 'Infrastructure']",Economic
+Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Economic,"['Economic', 'Infrastructure']",Economic
+Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,Economic,['Economic'],Economic
+Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,Climate,['Climate'],Climate
+"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,Economic,['Economic'],Economic
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Commercial service exports (current US$),TX.VAL.SERV.CD.WT,Economic,['Economic'],Economic
+Commercial service imports (current US$),TM.VAL.SERV.CD.WT,Economic,['Economic'],Economic
+"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS,Economic,"['Economic', 'Technology', 'Financial Services']",Financial Services
+"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS,Economic,"['Economic', 'Technology', 'Financial Services']",Financial Services
+"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,Healthcare,"['Healthcare', 'Labor']",Healthcare
+Compensation of employees (% of expense),GC.XPN.COMP.ZS,Economic,['Economic'],Economic
+Compensation of employees (current LCU),GC.XPN.COMP.CN,Economic,['Economic'],Economic
+Completeness of birth registration (%),SP.REG.BRTH.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS,Healthcare,"['Healthcare', 'Agriculture', 'Demographics']",Healthcare
+"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+Completeness of death registration with cause-of-death information (%),SP.REG.DTHS.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Compulsory education, duration (years)",SE.COM.DURS,Education,['Education'],Education
+"Computer, communications and other services (% of commercial service exports)",TX.VAL.OTHR.ZS.WT,Economic,"['Economic', 'Technology']",Economic
+"Computer, communications and other services (% of commercial service imports)",TM.VAL.OTHR.ZS.WT,Economic,"['Economic', 'Technology']",Economic
+"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS,Demographics,['Demographics'],Demographics
+Consumer price index (2010 = 100),FP.CPI.TOTL,Economic,['Economic'],Economic
+Consumption of iodized salt (% of households),SN.ITK.SALT.ZS,Economic,"['Economic', 'Demographics']",Economic
+Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,Economic,['Economic'],Economic
+"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Contraceptive prevalence, any modern method (% of married women ages 15-49)",SP.DYN.CONM.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,Labor,['Labor'],Labor
+"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,Labor,['Labor'],Labor
+Control of Corruption: Estimate,CC.EST,Governance,"['Governance', 'Law & Justice']",Governance
+Control of Corruption: Number of Sources,CC.NO.SRC,Governance,"['Governance', 'Law & Justice']",Governance
+Control of Corruption: Percentile Rank,CC.PER.RNK,Governance,"['Governance', 'Law & Justice']",Governance
+"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval",CC.PER.RNK.LOWER,Governance,"['Governance', 'Law & Justice']",Governance
+"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval",CC.PER.RNK.UPPER,Governance,"['Governance', 'Law & Justice']",Governance
+Control of Corruption: Standard Error,CC.STD.ERR,Governance,"['Governance', 'Law & Justice']",Governance
+Cost of business start-up procedures (% of GNI per capita),IC.REG.COST.PC.ZS,Economic,['Economic'],Economic
+"Cost of business start-up procedures, female (% of GNI per capita)",IC.REG.COST.PC.FE.ZS,Economic,"['Economic', 'Gender']",Gender
+"Cost of business start-up procedures, male (% of GNI per capita)",IC.REG.COST.PC.MA.ZS,Economic,['Economic'],Economic
+"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,Economic,['Economic'],Economic
+"Cost to export, documentary compliance (US$)",IC.EXP.CSDC.CD,Economic,['Economic'],Economic
+"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,Economic,['Economic'],Economic
+"Cost to import, documentary compliance (US$)",IC.IMP.CSDC.CD,Economic,['Economic'],Economic
+Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Coverage of social insurance programs in 2nd quintile (% of population),per_si_allsi.cov_q2_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Coverage of social insurance programs in 3rd quintile (% of population),per_si_allsi.cov_q3_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Coverage of social insurance programs in 4th quintile (% of population),per_si_allsi.cov_q4_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Coverage of social insurance programs in poorest quintile (% of population),per_si_allsi.cov_q1_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Coverage of social insurance programs in richest quintile (% of population),per_si_allsi.cov_q5_tot,Poverty,"['Poverty', 'Demographics', 'Financial Services']",Poverty
+Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Coverage of social safety net programs in 2nd quintile (% of population),per_sa_allsa.cov_q2_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Coverage of social safety net programs in 3rd quintile (% of population),per_sa_allsa.cov_q3_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Coverage of social safety net programs in 4th quintile (% of population),per_sa_allsa.cov_q4_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Coverage of social safety net programs in poorest quintile (% of population),per_sa_allsa.cov_q1_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Coverage of social safety net programs in richest quintile (% of population),per_sa_allsa.cov_q5_tot,Poverty,"['Poverty', 'Demographics']",Poverty
+Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot,Demographics,"['Demographics', 'Labor']",Demographics
+Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),per_lm_alllm.cov_q2_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),per_lm_alllm.cov_q3_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+Coverage of unemployment benefits and ALMP in 4th quintile (% of population),per_lm_alllm.cov_q4_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+Coverage of unemployment benefits and ALMP in poorest quintile (% of population),per_lm_alllm.cov_q1_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+Coverage of unemployment benefits and ALMP in richest quintile (% of population),per_lm_alllm.cov_q5_tot,Poverty,"['Poverty', 'Demographics', 'Labor']",Poverty
+CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,Governance,"['Governance', 'Natural Resources']",Governance
+CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,Economic,"['Economic', 'Climate', 'Governance']",Governance
+CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,Economic,"['Economic', 'Governance']",Economic
+CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,Economic,"['Economic', 'Demographics', 'Governance']",Economic
+CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,Economic,"['Economic', 'Governance']",Economic
+CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,Governance,"['Governance', 'Natural Resources']",Governance
+CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,Economic,"['Economic', 'Governance']",Economic
+CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,Economic,"['Economic', 'Governance']",Economic
+CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,Demographics,"['Demographics', 'Gender', 'Governance']",Gender
+CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,Economic,"['Economic', 'Demographics', 'Governance']",Economic
+CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,Demographics,"['Demographics', 'Governance']",Demographics
+CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,Climate,"['Climate', 'Governance']",Climate
+CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,Governance,"['Governance', 'Law & Justice']",Governance
+CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,Demographics,"['Demographics', 'Governance']",Demographics
+CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,Economic,"['Economic', 'Demographics', 'Governance']",Economic
+CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,Governance,['Governance'],Governance
+CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,Poverty,"['Poverty', 'Governance']",Poverty
+CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,Demographics,"['Demographics', 'Governance']",Demographics
+CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,Economic,"['Economic', 'Governance']",Economic
+"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,Governance,"['Governance', 'Law & Justice']",Governance
+Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,Agriculture,['Agriculture'],Agriculture
+Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,Economic,['Economic'],Economic
+"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,Financial Services,['Financial Services'],Financial Services
+"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,Economic,"['Economic', 'Healthcare']",Healthcare
+Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,Economic,"['Economic', 'Healthcare']",Healthcare
+"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD,Economic,"['Economic', 'Healthcare']",Healthcare
+Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,Economic,['Economic'],Economic
+Customs and other import duties (current LCU),GC.TAX.IMPT.CN,Economic,['Economic'],Economic
+"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Economic,"['Economic', 'Education']",Economic
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD,Economic,['Economic'],Economic
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Economic,['Economic'],Economic
+DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,Other,[],Other
+Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS,Gender,['Gender'],Gender
+Deposit interest rate (%),FR.INR.DPST,Economic,"['Economic', 'Financial Services']",Financial Services
+"Depositors with commercial banks (per 1,000 adults)",FB.CBK.DPTR.P3,Economic,"['Economic', 'Financial Services']",Financial Services
+Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,Financial Services,['Financial Services'],Financial Services
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS,Healthcare,"['Healthcare', 'Financial Services']",Financial Services
+Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH,Healthcare,"['Healthcare', 'Financial Services']",Financial Services
+Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,Other,[],Other
+Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN,Economic,['Economic'],Economic
+Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,Economic,['Economic'],Economic
+Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,Economic,"['Economic', 'Financial Services']",Economic
+Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,Economic,"['Economic', 'Financial Services']",Economic
+Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,Economic,"['Economic', 'Healthcare', 'Governance']",Healthcare
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Economic,"['Economic', 'Healthcare', 'Governance']",Healthcare
+Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS,Economic,"['Economic', 'Healthcare', 'Governance']",Healthcare
+Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD,Economic,"['Economic', 'Healthcare', 'Governance']",Healthcare
+"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD,Economic,"['Economic', 'Healthcare', 'Governance']",Healthcare
+Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,Economic,"['Economic', 'Healthcare']",Healthcare
+Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD,Economic,"['Economic', 'Healthcare']",Healthcare
+"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD,Economic,"['Economic', 'Healthcare']",Healthcare
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,Demographics,['Demographics'],Demographics
+Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ,Economic,"['Economic', 'Governance']",Economic
+Ease of doing business score (0 = lowest performance to 100 = best performance),IC.BUS.DFRN.XQ,Economic,['Economic'],Economic
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",SE.TER.CUAT.ST.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.MS.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.MS.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,Education,"['Education', 'Demographics']",Education
+"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.DO.FE.ZS,Healthcare,"['Healthcare', 'Education', 'Demographics', 'Gender']",Education
+"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.DO.MA.ZS,Healthcare,"['Healthcare', 'Education', 'Demographics']",Education
+"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,Healthcare,"['Healthcare', 'Education', 'Demographics']",Education
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Economic,"['Economic', 'Infrastructure']",Economic
+Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,Infrastructure,['Infrastructure'],Infrastructure
+Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,Infrastructure,['Infrastructure'],Infrastructure
+Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,Climate,"['Climate', 'Infrastructure']",Climate
+Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,Infrastructure,['Infrastructure'],Infrastructure
+Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,Infrastructure,['Infrastructure'],Infrastructure
+Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,Infrastructure,['Infrastructure'],Infrastructure
+"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,Infrastructure,['Infrastructure'],Infrastructure
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,Climate,"['Climate', 'Infrastructure']",Climate
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,Climate,"['Climate', 'Infrastructure']",Climate
+"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,Labor,['Labor'],Labor
+"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,Labor,['Labor'],Labor
+Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Agriculture,"['Agriculture', 'Labor']",Agriculture
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Agriculture,"['Agriculture', 'Labor', 'Gender']",Gender
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Agriculture,"['Agriculture', 'Labor']",Agriculture
+Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,Labor,['Labor'],Labor
+"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,Labor,['Labor'],Labor
+Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,Labor,['Labor'],Labor
+"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,Labor,['Labor'],Labor
+"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Employment to population ratio, 15+, female (%) (national estimate)",SL.EMP.TOTL.SP.FE.NE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, ages 15-24, male (%) (national estimate)",SL.EMP.1524.SP.MA.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",SL.EMP.1524.SP.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Employment to population ratio, ages 15-24, total (%) (national estimate)",SL.EMP.1524.SP.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,Economic,"['Economic', 'Climate']",Economic
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,Economic,"['Economic', 'Education', 'Climate']",Economic
+Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,Climate,['Climate'],Climate
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,Economic,"['Economic', 'Climate']",Economic
+Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS,Other,[],Other
+Expenditure on primary education (% of government expenditure on education),SE.XPD.PRIM.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+Expenditure on secondary education (% of government expenditure on education),SE.XPD.SECO.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+Expenditure on tertiary education (% of government expenditure on education),SE.XPD.TERT.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+Expense (% of GDP),GC.XPN.TOTL.GD.ZS,Economic,['Economic'],Economic
+Expense (current LCU),GC.XPN.TOTL.CN,Economic,['Economic'],Economic
+Export unit value index (2015 = 100),TX.UVI.MRCH.XD.WD,Economic,['Economic'],Economic
+Export value index (2015 = 100),TX.VAL.MRCH.XD.WD,Economic,['Economic'],Economic
+Export volume index (2015 = 100),TX.QTY.MRCH.XD.WD,Economic,['Economic'],Economic
+Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN,Economic,['Economic'],Economic
+Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,Economic,['Economic'],Economic
+Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,Economic,['Economic'],Economic
+"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Exports of goods and services (constant 2015 US$),NE.EXP.GNFS.KD,Economic,['Economic'],Economic
+Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,Economic,['Economic'],Economic
+Exports of goods and services (current LCU),NE.EXP.GNFS.CN,Economic,['Economic'],Economic
+Exports of goods and services (current US$),NE.EXP.GNFS.CD,Economic,['Economic'],Economic
+"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,Economic,['Economic'],Economic
+External balance on goods and services (constant LCU),NE.RSB.GNFS.KN,Economic,['Economic'],Economic
+External balance on goods and services (current LCU),NE.RSB.GNFS.CN,Economic,['Economic'],Economic
+External balance on goods and services (current US$),NE.RSB.GNFS.CD,Economic,['Economic'],Economic
+External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,Economic,['Economic'],Economic
+"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD,Economic,['Economic'],Economic
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Economic,['Economic'],Economic
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Economic,['Economic'],Economic
+"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,Economic,['Economic'],Economic
+"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,Economic,['Economic'],Economic
+External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,Economic,"['Economic', 'Healthcare']",Healthcare
+External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD,Economic,"['Economic', 'Healthcare']",Healthcare
+"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD,Economic,"['Economic', 'Healthcare']",Healthcare
+Female genital mutilation prevalence (%),SH.STA.FGMS.ZS,Gender,['Gender'],Gender
+Female headed households (% of households with a female head),SP.HOU.FEMA.ZS,Demographics,"['Demographics', 'Gender']",Gender
+Female primary school age children out-of-school (%),SE.LPV.PRIM.SD.FE,Education,"['Education', 'Demographics', 'Gender']",Education
+Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.FE,Education,"['Education', 'Gender']",Gender
+Female share of employment in senior and middle management (%),SL.EMP.SMGT.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,Economic,"['Economic', 'Agriculture']",Economic
+Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,Economic,"['Economic', 'Agriculture']",Economic
+F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,Climate,['Climate'],Climate
+Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS,Economic,['Economic'],Economic
+Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG,Economic,['Economic'],Economic
+Final consumption expenditure (constant 2015 US$),NE.CON.TOTL.KD,Economic,['Economic'],Economic
+Final consumption expenditure (constant LCU),NE.CON.TOTL.KN,Economic,['Economic'],Economic
+Final consumption expenditure (current LCU),NE.CON.TOTL.CN,Economic,['Economic'],Economic
+Final consumption expenditure (current US$),NE.CON.TOTL.CD,Economic,['Economic'],Economic
+Financial intermediary services indirectly Measured (FISIM) (constant LCU),NV.FSM.TOTL.KN,Economic,['Economic'],Economic
+Financial intermediary services indirectly Measured (FISIM) (current LCU),NV.FSM.TOTL.CN,Economic,['Economic'],Economic
+Firms competing against unregistered firms (% of firms),IC.FRM.CMPU.ZS,Economic,['Economic'],Economic
+Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS,Economic,['Economic'],Economic
+Firms experiencing electrical outages (% of firms),IC.ELC.OUTG.ZS,Economic,"['Economic', 'Demographics']",Economic
+Firms experiencing losses due to theft and vandalism (% of firms),IC.FRM.THEV.ZS,Economic,"['Economic', 'Law & Justice']",Law & Justice
+Firms formally registered when operations started (% of firms),IC.FRM.FREG.ZS,Economic,['Economic'],Economic
+Firms offering formal training (% of firms),IC.FRM.TRNG.ZS,Economic,['Economic'],Economic
+Firms that do not report all sales for tax purposes (% of firms),IC.FRM.INFM.ZS,Economic,['Economic'],Economic
+Firms that spend on R&D (% of firms),IC.FRM.RSDV.ZS,Economic,"['Economic', 'Technology']",Economic
+Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,Economic,['Economic'],Economic
+Firms using banks to finance working capital (% of firms),IC.FRM.BKWC.ZS,Economic,['Economic'],Economic
+Firms visited or required meetings with tax officials (% of firms),IC.FRM.METG.ZS,Economic,['Economic'],Economic
+Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS,Economic,"['Economic', 'Gender']",Gender
+Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,Economic,"['Economic', 'Demographics', 'Gender']",Gender
+"Fish species, threatened",EN.FSH.THRD.NO,Agriculture,"['Agriculture', 'Natural Resources']",Natural Resources
+Fixed broadband subscriptions,IT.NET.BBND,Infrastructure,"['Infrastructure', 'Technology']",Infrastructure
+Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,Infrastructure,"['Infrastructure', 'Technology']",Infrastructure
+Fixed telephone subscriptions,IT.MLT.MAIN,Other,[],Other
+Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,Other,[],Other
+Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN,Economic,"['Economic', 'Agriculture']",Economic
+Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,Economic,"['Economic', 'Agriculture']",Economic
+Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,Agriculture,['Agriculture'],Agriculture
+"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN,Agriculture,"['Agriculture', 'Demographics', 'Manufacturing']",Manufacturing
+"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,Economic,['Economic'],Economic
+"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,Economic,['Economic'],Economic
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Economic,"['Economic', 'Financial Services']",Financial Services
+Forest area (% of land area),AG.LND.FRST.ZS,Climate,"['Climate', 'Agriculture']",Climate
+Forest area (sq. km),AG.LND.FRST.K2,Climate,['Climate'],Climate
+Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,Economic,"['Economic', 'Climate']",Economic
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,Economic,"['Economic', 'Climate']",Economic
+Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,Economic,['Economic'],Economic
+Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Economic,['Economic'],Economic
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Economic,['Economic'],Economic
+GDP (constant LCU),NY.GDP.MKTP.KN,Economic,['Economic'],Economic
+GDP (current LCU),NY.GDP.MKTP.CN,Economic,['Economic'],Economic
+GDP (current US$),NY.GDP.MKTP.CD,Economic,['Economic'],Economic
+GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,Economic,['Economic'],Economic
+GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,Economic,['Economic'],Economic
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Economic,['Economic'],Economic
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Economic,['Economic'],Economic
+GDP per capita (constant LCU),NY.GDP.PCAP.KN,Economic,['Economic'],Economic
+GDP per capita (current LCU),NY.GDP.PCAP.CN,Economic,['Economic'],Economic
+GDP per capita (current US$),NY.GDP.PCAP.CD,Economic,['Economic'],Economic
+GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,Economic,['Economic'],Economic
+"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,Economic,['Economic'],Economic
+"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Economic,['Economic'],Economic
+GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,Economic,"['Economic', 'Labor']",Economic
+GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,Economic,"['Economic', 'Climate']",Economic
+GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,Economic,"['Economic', 'Climate']",Economic
+"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,Economic,['Economic'],Economic
+"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,Economic,['Economic'],Economic
+GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,Economic,['Economic'],Economic
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Economic,"['Economic', 'Governance']",Economic
+General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG,Economic,"['Economic', 'Governance']",Economic
+General government final consumption expenditure (constant 2015 US$),NE.CON.GOVT.KD,Economic,"['Economic', 'Governance']",Economic
+General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN,Economic,"['Economic', 'Governance']",Economic
+General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,Economic,"['Economic', 'Governance']",Economic
+General government final consumption expenditure (current US$),NE.CON.GOVT.CD,Economic,"['Economic', 'Governance']",Economic
+Gini index,SI.POV.GINI,Poverty,['Poverty'],Poverty
+GNI (constant 2015 US$),NY.GNP.MKTP.KD,Economic,['Economic'],Economic
+GNI (constant LCU),NY.GNP.MKTP.KN,Economic,['Economic'],Economic
+GNI (current LCU),NY.GNP.MKTP.CN,Economic,['Economic'],Economic
+GNI (current US$),NY.GNP.MKTP.CD,Economic,['Economic'],Economic
+GNI growth (annual %),NY.GNP.MKTP.KD.ZG,Economic,['Economic'],Economic
+GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,Economic,['Economic'],Economic
+GNI per capita (constant LCU),NY.GNP.PCAP.KN,Economic,['Economic'],Economic
+GNI per capita (current LCU),NY.GNP.PCAP.CN,Economic,['Economic'],Economic
+GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,Economic,['Economic'],Economic
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Economic,['Economic'],Economic
+"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,Economic,['Economic'],Economic
+"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,Economic,['Economic'],Economic
+"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,Economic,['Economic'],Economic
+"GNI, PPP (constant 2021 international $)",NY.GNP.MKTP.PP.KD,Economic,['Economic'],Economic
+"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,Economic,['Economic'],Economic
+GNI: linked series (current LCU),NY.GNP.MKTP.CN.AD,Economic,['Economic'],Economic
+Goods and services expense (% of expense),GC.XPN.GSRV.ZS,Economic,['Economic'],Economic
+Goods and services expense (current LCU),GC.XPN.GSRV.CN,Economic,['Economic'],Economic
+"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Government Effectiveness: Estimate,GE.EST,Governance,['Governance'],Governance
+Government Effectiveness: Number of Sources,GE.NO.SRC,Governance,['Governance'],Governance
+Government Effectiveness: Percentile Rank,GE.PER.RNK,Governance,['Governance'],Governance
+"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",GE.PER.RNK.LOWER,Governance,['Governance'],Governance
+"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",GE.PER.RNK.UPPER,Governance,['Governance'],Governance
+Government Effectiveness: Standard Error,GE.STD.ERR,Governance,['Governance'],Governance
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,Economic,"['Economic', 'Education', 'Governance']",Education
+"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,Economic,"['Economic', 'Education', 'Governance']",Economic
+"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,Economic,"['Economic', 'Education', 'Governance']",Economic
+"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,Economic,"['Economic', 'Education', 'Governance']",Economic
+Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,Economic,['Economic'],Economic
+Grants and other revenue (current LCU),GC.REV.GOTR.CN,Economic,['Economic'],Economic
+"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD,Technology,"['Technology', 'Financial Services']",Financial Services
+Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,Economic,['Economic'],Economic
+Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,Economic,['Economic'],Economic
+Gross capital formation (constant 2015 US$),NE.GDI.TOTL.KD,Economic,['Economic'],Economic
+Gross capital formation (constant LCU),NE.GDI.TOTL.KN,Economic,['Economic'],Economic
+Gross capital formation (current LCU),NE.GDI.TOTL.CN,Economic,['Economic'],Economic
+Gross capital formation (current US$),NE.GDI.TOTL.CD,Economic,['Economic'],Economic
+Gross domestic income (constant LCU),NY.GDY.TOTL.KN,Economic,['Economic'],Economic
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Economic,['Economic'],Economic
+Gross domestic savings (current LCU),NY.GDS.TOTL.CN,Economic,['Economic'],Economic
+Gross domestic savings (current US$),NY.GDS.TOTL.CD,Economic,['Economic'],Economic
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Economic,['Economic'],Economic
+Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,Economic,['Economic'],Economic
+Gross fixed capital formation (constant 2015 US$),NE.GDI.FTOT.KD,Economic,['Economic'],Economic
+Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,Economic,['Economic'],Economic
+Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,Economic,['Economic'],Economic
+Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,Economic,['Economic'],Economic
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Economic,['Economic'],Economic
+"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,Economic,['Economic'],Economic
+"Gross intake ratio in first grade of primary education, female (% of relevant age group)",SE.PRM.GINT.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Gross intake ratio in first grade of primary education, male (% of relevant age group)",SE.PRM.GINT.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Gross intake ratio in first grade of primary education, total (% of relevant age group)",SE.PRM.GINT.ZS,Education,"['Education', 'Demographics']",Education
+Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Economic,['Economic'],Economic
+Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Economic,['Economic'],Economic
+Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Economic,['Economic'],Economic
+Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Economic,['Economic'],Economic
+Gross national expenditure (current US$),NE.DAB.TOTL.CD,Economic,['Economic'],Economic
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Economic,['Economic'],Economic
+Gross savings (% of GDP),NY.GNS.ICTR.ZS,Economic,['Economic'],Economic
+Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS,Economic,['Economic'],Economic
+Gross savings (current LCU),NY.GNS.ICTR.CN,Economic,['Economic'],Economic
+Gross savings (current US$),NY.GNS.ICTR.CD,Economic,['Economic'],Economic
+Gross value added at basic prices (GVA) (constant 2015 US$),NY.GDP.FCST.KD,Economic,['Economic'],Economic
+Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,Economic,['Economic'],Economic
+Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN,Economic,['Economic'],Economic
+Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD,Economic,['Economic'],Economic
+High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,Economic,"['Economic', 'Technology', 'Manufacturing']",Economic
+High-technology exports (current US$),TX.VAL.TECH.CD,Economic,"['Economic', 'Technology']",Economic
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Healthcare,['Healthcare'],Healthcare
+Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Economic,"['Economic', 'Demographics']",Economic
+"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,Economic,"['Economic', 'Demographics']",Economic
+"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,Economic,"['Economic', 'Demographics']",Economic
+Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Economic,"['Economic', 'Demographics']",Economic
+Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,Economic,['Economic'],Economic
+"Human capital index (HCI), female (scale 0-1)",HD.HCI.OVRL.FE,Economic,"['Economic', 'Gender']",Gender
+"Human capital index (HCI), female, lower bound (scale 0-1)",HD.HCI.OVRL.LB.FE,Economic,"['Economic', 'Gender']",Gender
+"Human capital index (HCI), female, upper bound (scale 0-1)",HD.HCI.OVRL.UB.FE,Economic,"['Economic', 'Gender']",Gender
+"Human capital index (HCI), lower bound (scale 0-1)",HD.HCI.OVRL.LB,Economic,['Economic'],Economic
+"Human capital index (HCI), male (scale 0-1)",HD.HCI.OVRL.MA,Economic,['Economic'],Economic
+"Human capital index (HCI), male, lower bound (scale 0-1)",HD.HCI.OVRL.LB.MA,Economic,['Economic'],Economic
+"Human capital index (HCI), male, upper bound (scale 0-1)",HD.HCI.OVRL.UB.MA,Economic,['Economic'],Economic
+"Human capital index (HCI), upper bound (scale 0-1)",HD.HCI.OVRL.UB,Economic,['Economic'],Economic
+"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD,Financial Services,['Financial Services'],Financial Services
+ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,Economic,"['Economic', 'Infrastructure', 'Technology']",Economic
+ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,Economic,"['Economic', 'Infrastructure', 'Technology']",Economic
+"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,Economic,"['Economic', 'Infrastructure', 'Technology', 'Financial Services']",Financial Services
+"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,Economic,"['Economic', 'Infrastructure', 'Technology', 'Financial Services']",Financial Services
+IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,Natural Resources,['Natural Resources'],Natural Resources
+"IFC, private nonguaranteed (NFL, US$)",DT.NFL.NIFC.CD,Economic,['Economic'],Economic
+"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD,Economic,['Economic'],Economic
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Healthcare,['Healthcare'],Healthcare
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Import unit value index (2015 = 100),TM.UVI.MRCH.XD.WD,Economic,['Economic'],Economic
+Import value index (2015 = 100),TM.VAL.MRCH.XD.WD,Economic,['Economic'],Economic
+Import volume index (2015 = 100),TM.QTY.MRCH.XD.WD,Economic,['Economic'],Economic
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Economic,['Economic'],Economic
+Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Economic,['Economic'],Economic
+"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Economic,['Economic'],Economic
+Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Economic,['Economic'],Economic
+Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Economic,['Economic'],Economic
+Imports of goods and services (current US$),NE.IMP.GNFS.CD,Economic,['Economic'],Economic
+"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,Healthcare,['Healthcare'],Healthcare
+Income share held by fourth 20%,SI.DST.04TH.20,Economic,['Economic'],Economic
+Income share held by highest 10%,SI.DST.10TH.10,Economic,['Economic'],Economic
+Income share held by highest 20%,SI.DST.05TH.20,Economic,['Economic'],Economic
+Income share held by lowest 10%,SI.DST.FRST.10,Economic,['Economic'],Economic
+Income share held by lowest 20%,SI.DST.FRST.20,Economic,['Economic'],Economic
+Income share held by second 20%,SI.DST.02ND.20,Economic,['Economic'],Economic
+Income share held by third 20%,SI.DST.03RD.20,Economic,['Economic'],Economic
+Individuals using the Internet (% of population),IT.NET.USER.ZS,Infrastructure,"['Infrastructure', 'Demographics', 'Technology']",Infrastructure
+"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,Infrastructure,"['Infrastructure', 'Demographics', 'Gender', 'Technology']",Gender
+"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,Infrastructure,"['Infrastructure', 'Demographics', 'Technology']",Infrastructure
+"Industrial design applications, nonresident, by count",IP.IDS.NRCT,Manufacturing,['Manufacturing'],Manufacturing
+"Industrial design applications, resident, by count",IP.IDS.RSCT,Manufacturing,['Manufacturing'],Manufacturing
+"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,Economic,"['Economic', 'Infrastructure']",Economic
+"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG,Infrastructure,['Infrastructure'],Infrastructure
+"Industry (including construction), value added (constant 2015 US$)",NV.IND.TOTL.KD,Infrastructure,['Infrastructure'],Infrastructure
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Infrastructure,['Infrastructure'],Infrastructure
+"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN,Infrastructure,['Infrastructure'],Infrastructure
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Infrastructure,['Infrastructure'],Infrastructure
+"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,Infrastructure,['Infrastructure'],Infrastructure
+"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,Economic,['Economic'],Economic
+"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,Economic,['Economic'],Economic
+"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,Economic,['Economic'],Economic
+Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,Economic,['Economic'],Economic
+Insurance and financial services (% of commercial service exports),TX.VAL.INSF.ZS.WT,Economic,"['Economic', 'Financial Services']",Economic
+Insurance and financial services (% of commercial service imports),TM.VAL.INSF.ZS.WT,Economic,"['Economic', 'Financial Services']",Economic
+"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,Law & Justice,['Law & Justice'],Law & Justice
+"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,Gender,"['Gender', 'Law & Justice']",Gender
+"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,Law & Justice,['Law & Justice'],Law & Justice
+Interest payments (% of expense),GC.XPN.INTP.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Interest payments (current LCU),GC.XPN.INTP.CN,Financial Services,['Financial Services'],Financial Services
+"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Economic,"['Economic', 'Financial Services']",Financial Services
+"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,Infrastructure,"['Infrastructure', 'Military', 'Technology']",Infrastructure
+"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,Other,[],Other
+"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV,Infrastructure,"['Infrastructure', 'Military', 'Technology']",Infrastructure
+International migrant stock (% of population),SM.POP.TOTL.ZS,Demographics,['Demographics'],Demographics
+"International migrant stock, total",SM.POP.TOTL,Demographics,['Demographics'],Demographics
+"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,Economic,"['Economic', 'Tourism & Travel']",Tourism & Travel
+"International tourism, expenditures (current US$)",ST.INT.XPND.CD,Economic,"['Economic', 'Tourism & Travel']",Tourism & Travel
+"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,Economic,"['Economic', 'Infrastructure', 'Tourism & Travel']",Tourism & Travel
+"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,Economic,"['Economic', 'Tourism & Travel']",Tourism & Travel
+"International tourism, number of arrivals",ST.INT.ARVL,Tourism & Travel,['Tourism & Travel'],Tourism & Travel
+"International tourism, number of departures",ST.INT.DPRT,Tourism & Travel,['Tourism & Travel'],Tourism & Travel
+"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,Economic,"['Economic', 'Tourism & Travel']",Tourism & Travel
+"International tourism, receipts (current US$)",ST.INT.RCPT.CD,Tourism & Travel,['Tourism & Travel'],Tourism & Travel
+"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,Infrastructure,"['Infrastructure', 'Tourism & Travel']",Tourism & Travel
+"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD,Tourism & Travel,['Tourism & Travel'],Tourism & Travel
+Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,Economic,"['Economic', 'Climate']",Economic
+Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,Economic,"['Economic', 'Infrastructure', 'Technology']",Economic
+Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,Economic,"['Economic', 'Infrastructure']",Economic
+Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,Economic,"['Economic', 'Healthcare', 'Infrastructure']",Economic
+"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Labor force participation rate for ages 15-24, female (%) (national estimate)",SL.TLF.ACTI.1524.FE.NE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate for ages 15-24, male (%) (national estimate)",SL.TLF.ACTI.1524.MA.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate for ages 15-24, total (%) (national estimate)",SL.TLF.ACTI.1524.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,Education,"['Education', 'Demographics', 'Labor', 'Gender']",Education
+"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,Education,"['Education', 'Demographics', 'Labor', 'Gender']",Education
+"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,Education,"['Education', 'Demographics', 'Labor', 'Gender']",Education
+"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Labor force, total",SL.TLF.TOTL.IN,Labor,['Labor'],Labor
+Labor tax and contributions (% of commercial profits),IC.TAX.LABR.CP.ZS,Economic,"['Economic', 'Labor']",Economic
+Land area (sq. km),AG.LND.TOTL.K2,Agriculture,['Agriculture'],Agriculture
+Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,Agriculture,['Agriculture'],Agriculture
+Land under cereal production (hectares),AG.LND.CREL.HA,Agriculture,['Agriculture'],Agriculture
+"Lead time to export, median case (days)",LP.EXP.DURS.MD,Economic,['Economic'],Economic
+"Lead time to import, median case (days)",LP.IMP.DURS.MD,Economic,['Economic'],Economic
+Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,Poverty,"['Poverty', 'Education', 'Demographics', 'Labor']",Poverty
+Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,Poverty,"['Poverty', 'Education', 'Demographics', 'Labor', 'Gender']",Poverty
+Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,Poverty,"['Poverty', 'Education', 'Demographics', 'Labor']",Poverty
+Lending interest rate (%),FR.INR.LEND,Economic,"['Economic', 'Financial Services']",Economic
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,Infrastructure,"['Infrastructure', 'Natural Resources']",Infrastructure
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,Economic,"['Economic', 'Infrastructure']",Economic
+"Listed domestic companies, total",CM.MKT.LDOM.NO,Economic,['Economic'],Economic
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Education,"['Education', 'Demographics']",Education
+"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,Education,"['Education', 'Demographics']",Education
+Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,Agriculture,['Agriculture'],Agriculture
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),LP.LPI.TRAC.XQ,Infrastructure,['Infrastructure'],Infrastructure
+Logistics performance index: Competence and quality of logistics services (1=low to 5=high),LP.LPI.LOGS.XQ,Infrastructure,['Infrastructure'],Infrastructure
+Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),LP.LPI.ITRN.XQ,Infrastructure,['Infrastructure'],Infrastructure
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),LP.LPI.CUST.XQ,Economic,"['Economic', 'Infrastructure']",Economic
+Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),LP.LPI.TIME.XQ,Infrastructure,['Infrastructure'],Infrastructure
+Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,Infrastructure,['Infrastructure'],Infrastructure
+Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,Economic,"['Economic', 'Infrastructure']",Economic
+Losses due to theft and vandalism (% of annual sales for affected firms),IC.FRM.CRIM.ZS,Economic,"['Economic', 'Law & Justice']",Law & Justice
+Low-birthweight babies (% of births),SH.STA.BRTW.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Gender
+"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS,Education,"['Education', 'Demographics']",Education
+Lower secondary school starting age (years),SE.SEC.AGES,Education,"['Education', 'Demographics']",Education
+Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN,Infrastructure,"['Infrastructure', 'Manufacturing']",Manufacturing
+Male primary school age children out-of-school (%),SE.LPV.PRIM.SD.MA,Education,"['Education', 'Demographics']",Education
+Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.MA,Education,['Education'],Education
+"Mammal species, threatened",EN.MAM.THRD.NO,Natural Resources,['Natural Resources'],Natural Resources
+Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN,Economic,['Economic'],Economic
+Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,Economic,['Economic'],Economic
+"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,Economic,"['Economic', 'Manufacturing']",Manufacturing
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Manufacturing,['Manufacturing'],Manufacturing
+"Manufacturing, value added (constant 2015 US$)",NV.IND.MANF.KD,Manufacturing,['Manufacturing'],Manufacturing
+"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN,Manufacturing,['Manufacturing'],Manufacturing
+"Manufacturing, value added (current LCU)",NV.IND.MANF.CN,Manufacturing,['Manufacturing'],Manufacturing
+"Manufacturing, value added (current US$)",NV.IND.MANF.CD,Manufacturing,['Manufacturing'],Manufacturing
+Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,Infrastructure,"['Infrastructure', 'Natural Resources']",Infrastructure
+Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS,Economic,['Economic'],Economic
+Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD,Economic,['Economic'],Economic
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+Medium and high-tech exports (% manufactured exports),TX.MNF.TECH.ZS.UN,Economic,"['Economic', 'Technology', 'Manufacturing']",Economic
+Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,Technology,"['Technology', 'Manufacturing']",Manufacturing
+Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,Economic,['Economic'],Economic
+Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,Economic,['Economic'],Economic
+"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,Economic,['Economic'],Economic
+Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,Economic,['Economic'],Economic
+Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,Economic,['Economic'],Economic
+Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,Economic,['Economic'],Economic
+Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,Economic,['Economic'],Economic
+Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,Economic,['Economic'],Economic
+"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,Economic,['Economic'],Economic
+Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,Economic,['Economic'],Economic
+Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,Economic,['Economic'],Economic
+Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,Economic,['Economic'],Economic
+Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,Economic,['Economic'],Economic
+Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,Climate,['Climate'],Climate
+Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,Climate,['Climate'],Climate
+Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,Climate,"['Climate', 'Agriculture']",Climate
+Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,Climate,['Climate'],Climate
+Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,Climate,['Climate'],Climate
+Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,Climate,['Climate'],Climate
+Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,Climate,['Climate'],Climate
+Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,Climate,"['Climate', 'Infrastructure']",Climate
+Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,Climate,"['Climate', 'Infrastructure']",Climate
+Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,Climate,['Climate'],Climate
+Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,Economic,"['Economic', 'Military']",Economic
+Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,Economic,"['Economic', 'Military', 'Governance']",Economic
+Military expenditure (current LCU),MS.MIL.XPND.CN,Economic,"['Economic', 'Military']",Economic
+Military expenditure (current USD),MS.MIL.XPND.CD,Economic,"['Economic', 'Military']",Economic
+Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,Economic,"['Economic', 'Natural Resources']",Economic
+Mobile cellular subscriptions,IT.CEL.SETS,Infrastructure,"['Infrastructure', 'Technology']",Infrastructure
+Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,Infrastructure,"['Infrastructure', 'Technology']",Infrastructure
+Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS,Economic,"['Economic', 'Financial Services']",Economic
+"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5,Healthcare,"['Healthcare', 'Climate', 'Demographics']",Healthcare
+"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5,Healthcare,"['Healthcare', 'Climate', 'Demographics', 'Gender']",Healthcare
+"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5,Healthcare,"['Healthcare', 'Climate', 'Demographics']",Healthcare
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Multidimensional poverty headcount ratio (UNDP) (% of population),SI.POV.MPUN,Poverty,"['Poverty', 'Demographics']",Poverty
+Multidimensional poverty headcount ratio (World Bank) (% of population),SI.POV.MPWB,Economic,"['Economic', 'Poverty', 'Demographics']",Poverty
+Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS,Economic,['Economic'],Economic
+"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD,Economic,['Economic'],Economic
+Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,Economic,['Economic'],Economic
+Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS,Economic,['Economic'],Economic
+Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN,Economic,['Economic'],Economic
+Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,Economic,['Economic'],Economic
+"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Czechia (current US$)",DC.DAC.CZEL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Estonia (current US$)",DC.DAC.ESTL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD,Governance,['Governance'],Governance
+"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Greece (current US$)",DC.DAC.GRCL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Hungary (current US$)",DC.DAC.HUNL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Iceland (current US$)",DC.DAC.ISLL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Lithuania (current US$)",DC.DAC.LTUL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",DC.DAC.SVKL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Slovenia (current US$)",DC.DAC.SVNL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD,Agriculture,['Agriculture'],Agriculture
+"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,Other,[],Other
+"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,Other,[],Other
+"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Net domestic credit (current LCU),FM.AST.DOMS.CN,Economic,"['Economic', 'Financial Services']",Economic
+"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD,Financial Services,['Financial Services'],Financial Services
+"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD,Economic,['Economic'],Economic
+"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD,Economic,['Economic'],Economic
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Economic,['Economic'],Economic
+"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD,Economic,['Economic'],Economic
+"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD,Economic,['Economic'],Economic
+"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD,Economic,['Economic'],Economic
+"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD,Economic,['Economic'],Economic
+"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD,Economic,['Economic'],Economic
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Economic,['Economic'],Economic
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD,Economic,['Economic'],Economic
+Net foreign assets (current LCU),FM.AST.NFRG.CN,Economic,['Economic'],Economic
+"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,Economic,['Economic'],Economic
+"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,Economic,['Economic'],Economic
+Net intake rate in grade 1 (% of official school-age population),SE.PRM.NINT.ZS,Education,"['Education', 'Demographics']",Education
+"Net intake rate in grade 1, female (% of official school-age population)",SE.PRM.NINT.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"Net intake rate in grade 1, male (% of official school-age population)",SE.PRM.NINT.MA.ZS,Education,"['Education', 'Demographics']",Education
+Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,Economic,['Economic'],Economic
+Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN,Economic,['Economic'],Economic
+Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS,Economic,"['Economic', 'Financial Services']",Economic
+Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN,Financial Services,['Financial Services'],Financial Services
+Net migration,SM.POP.NETM,Demographics,['Demographics'],Demographics
+Net ODA provided to the least developed countries (% of GNI),DC.ODA.TLDC.GN.ZS,Economic,['Economic'],Economic
+"Net ODA provided, to the least developed countries (current US$)",DC.ODA.TLDC.CD,Economic,['Economic'],Economic
+"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,Economic,['Economic'],Economic
+"Net ODA provided, total (constant 2021 US$)",DC.ODA.TOTL.KD,Economic,['Economic'],Economic
+"Net ODA provided, total (current US$)",DC.ODA.TOTL.CD,Economic,['Economic'],Economic
+Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS,Economic,"['Economic', 'Governance']",Economic
+Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,Economic,['Economic'],Economic
+Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS,Economic,['Economic'],Economic
+"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS,Economic,"['Economic', 'Education']",Economic
+Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,Economic,['Economic'],Economic
+Net official aid received (constant 2021 US$),DT.ODA.OATL.KD,Financial Services,['Financial Services'],Financial Services
+Net official aid received (current US$),DT.ODA.OATL.CD,Financial Services,['Financial Services'],Financial Services
+Net official development assistance and official aid received (constant 2021 US$),DT.ODA.ALLD.KD,Financial Services,['Financial Services'],Financial Services
+Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,Financial Services,['Financial Services'],Financial Services
+Net official development assistance received (constant 2021 US$),DT.ODA.ODAT.KD,Financial Services,['Financial Services'],Financial Services
+Net official development assistance received (current US$),DT.ODA.ODAT.CD,Financial Services,['Financial Services'],Financial Services
+"Net official flows from UN agencies, CERF (current US$)",DT.NFL.CERF.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, FAO (current US$)",DT.NFL.FAOG.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, IAEA (current US$)",DT.NFL.IAEA.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, SDGFUND (current US$)",DT.NFL.SDGF.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, SPRP (current US$)",DT.NFL.SPRP.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Net official flows from UN agencies, UNCDF (current US$)",DT.NFL.UNCD.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNCOVID (current US$)",DT.NFL.UNCV.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNCTAD (current US$)",DT.NFL.UNCTAD.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNECE (current US$)",DT.NFL.UNEC.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNEP (current US$)",DT.NFL.UNEP.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNHCR (current US$)",DT.NFL.UNCR.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNIDIR (current US$)",DT.NFL.UNID.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNIDO (current US$)",DT.NFL.UNIDO.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNPBF (current US$)",DT.NFL.UNPB.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNRWA (current US$)",DT.NFL.UNRW.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNTA (current US$)",DT.NFL.UNTA.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, UNWOMEN (current US$)",DT.NFL.UNWN.CD,Demographics,"['Demographics', 'Gender']",Gender
+"Net official flows from UN agencies, UNWTO (current US$)",DT.NFL.UNWT.CD,Economic,"['Economic', 'Demographics']",Economic
+"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD,Demographics,['Demographics'],Demographics
+"Net official flows from UN agencies, WTO-ITC (current US$)",DT.NFL.WITC.CD,Economic,"['Economic', 'Demographics']",Economic
+"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+Net primary income (Net income from abroad) (constant LCU),NY.GSR.NFCY.KN,Economic,"['Economic', 'Education', 'Infrastructure']",Economic
+Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN,Economic,"['Economic', 'Education', 'Infrastructure']",Economic
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Economic,"['Economic', 'Education', 'Infrastructure']",Economic
+"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+Net secondary income (Net current transfers from abroad) (constant LCU),NY.TRF.NCTR.KN,Economic,"['Economic', 'Education', 'Infrastructure']",Economic
+Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN,Economic,"['Economic', 'Education', 'Infrastructure']",Economic
+Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD,Economic,"['Economic', 'Education', 'Infrastructure']",Economic
+"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,Economic,"['Economic', 'Demographics']",Economic
+New businesses registered (number),IC.BUS.NREG,Economic,['Economic'],Economic
+Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,Healthcare,['Healthcare'],Healthcare
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,Climate,['Climate'],Climate
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,Climate,['Climate'],Climate
+Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,Climate,"['Climate', 'Agriculture']",Climate
+Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,Climate,['Climate'],Climate
+Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,Climate,['Climate'],Climate
+Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,Climate,['Climate'],Climate
+Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,Climate,['Climate'],Climate
+Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,Climate,"['Climate', 'Infrastructure']",Climate
+Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,Climate,"['Climate', 'Infrastructure']",Climate
+Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,Climate,['Climate'],Climate
+Number of deaths ages 10-14 years,SH.DTH.1014,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Number of deaths ages 15-19 years,SH.DTH.1519,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Number of deaths ages 20-24 years,SH.DTH.2024,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Number of deaths ages 5-9 years,SH.DTH.0509,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Number of infant deaths,SH.DTH.IMRT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Number of maternal deaths,SH.MMR.DTHS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+Number of neonatal deaths,SH.DTH.NMRT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Demographics,['Demographics'],Demographics
+Number of under-five deaths,SH.DTH.MORT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Number of visits or required meetings with tax officials (average for affected firms),IC.TAX.METG,Economic,"['Economic', 'Demographics']",Economic
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Healthcare,['Healthcare'],Healthcare
+"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,Economic,"['Economic', 'Demographics']",Economic
+Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,Economic,['Economic'],Economic
+Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,Economic,['Economic'],Economic
+Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,Economic,['Economic'],Economic
+Other expense (% of expense),GC.XPN.OTHR.ZS,Economic,['Economic'],Economic
+Other expense (current LCU),GC.XPN.OTHR.CN,Economic,['Economic'],Economic
+Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN,Manufacturing,['Manufacturing'],Manufacturing
+Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,Economic,['Economic'],Economic
+Other taxes (current LCU),GC.TAX.OTHR.CN,Economic,['Economic'],Economic
+Other taxes payable by businesses (% of commercial profits),IC.TAX.OTHR.CP.ZS,Economic,['Economic'],Economic
+Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,Economic,"['Economic', 'Healthcare']",Healthcare
+Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,Economic,['Economic'],Economic
+"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,Economic,['Economic'],Economic
+"Over-age students, primary (% of enrollment)",SE.PRM.OENR.ZS,Education,"['Education', 'Demographics']",Education
+"Over-age students, primary, female (% of female enrollment)",SE.PRM.OENR.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Gender
+"Over-age students, primary, male (% of male enrollment)",SE.PRM.OENR.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Part time employment, female (% of total female employment)",SL.TLF.PART.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Part time employment, male (% of total male employment)",SL.TLF.PART.MA.ZS,Labor,['Labor'],Labor
+"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,Labor,['Labor'],Labor
+"Patent applications, nonresidents",IP.PAT.NRES,Technology,['Technology'],Technology
+"Patent applications, residents",IP.PAT.RESD,Technology,['Technology'],Technology
+People practicing open defecation (% of population),SH.STA.ODFC.ZS,Demographics,['Demographics'],Demographics
+"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,Agriculture,"['Agriculture', 'Demographics']",Agriculture
+"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS,Agriculture,"['Agriculture', 'Infrastructure', 'Demographics']",Agriculture
+"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,Healthcare,"['Healthcare', 'Agriculture', 'Infrastructure', 'Demographics']",Healthcare
+"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS,Agriculture,"['Agriculture', 'Infrastructure', 'Demographics']",Agriculture
+"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS,Healthcare,"['Healthcare', 'Agriculture', 'Infrastructure', 'Demographics']",Healthcare
+"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS,Healthcare,"['Healthcare', 'Infrastructure', 'Demographics']",Healthcare
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS,Agriculture,"['Agriculture', 'Infrastructure', 'Demographics']",Agriculture
+"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Permanent cropland (% of land area),AG.LND.CROP.ZS,Agriculture,['Agriculture'],Agriculture
+"Persistence to grade 5, female (% of cohort)",SE.PRM.PRS5.FE.ZS,Education,"['Education', 'Gender']",Gender
+"Persistence to grade 5, male (% of cohort)",SE.PRM.PRS5.MA.ZS,Education,['Education'],Education
+"Persistence to grade 5, total (% of cohort)",SE.PRM.PRS5.ZS,Education,['Education'],Education
+"Persistence to last grade of primary, female (% of cohort)",SE.PRM.PRSL.FE.ZS,Education,"['Education', 'Gender']",Gender
+"Persistence to last grade of primary, male (% of cohort)",SE.PRM.PRSL.MA.ZS,Education,['Education'],Education
+"Persistence to last grade of primary, total (% of cohort)",SE.PRM.PRSL.ZS,Education,['Education'],Education
+"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,Financial Services,['Financial Services'],Financial Services
+"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,Economic,"['Economic', 'Financial Services']",Economic
+"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,Financial Services,['Financial Services'],Financial Services
+"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,Financial Services,['Financial Services'],Financial Services
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Healthcare,['Healthcare'],Healthcare
+"Plant species (higher), threatened",EN.HPT.THRD.NO,Natural Resources,['Natural Resources'],Natural Resources
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,Climate,['Climate'],Climate
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,Climate,"['Climate', 'Demographics']",Climate
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,Climate,"['Climate', 'Demographics']",Climate
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,Climate,"['Climate', 'Demographics']",Climate
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,Climate,"['Climate', 'Demographics']",Climate
+"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD,Economic,['Economic'],Economic
+"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Military,"['Military', 'Governance']",Military
+Political Stability and Absence of Violence/Terrorism: Number of Sources,PV.NO.SRC,Military,"['Military', 'Governance']",Military
+Political Stability and Absence of Violence/Terrorism: Percentile Rank,PV.PER.RNK,Military,"['Military', 'Governance']",Military
+"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval",PV.PER.RNK.LOWER,Military,"['Military', 'Governance']",Military
+"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",PV.PER.RNK.UPPER,Military,"['Military', 'Governance']",Military
+Political Stability and Absence of Violence/Terrorism: Standard Error,PV.STD.ERR,Military,"['Military', 'Governance']",Military
+"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,Demographics,['Demographics'],Demographics
+Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,Demographics,['Demographics'],Demographics
+"Population ages 0-14, female",SP.POP.0014.FE.IN,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 0-14, male",SP.POP.0014.MA.IN,Demographics,['Demographics'],Demographics
+"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,Demographics,['Demographics'],Demographics
+"Population ages 0-14, total",SP.POP.0014.TO,Demographics,['Demographics'],Demographics
+"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,Demographics,['Demographics'],Demographics
+Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,Demographics,['Demographics'],Demographics
+"Population ages 15-64, female",SP.POP.1564.FE.IN,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 15-64, male",SP.POP.1564.MA.IN,Demographics,['Demographics'],Demographics
+"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,Demographics,['Demographics'],Demographics
+"Population ages 15-64, total",SP.POP.1564.TO,Demographics,['Demographics'],Demographics
+"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,Demographics,['Demographics'],Demographics
+Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,Demographics,['Demographics'],Demographics
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Demographics,['Demographics'],Demographics
+"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,Demographics,['Demographics'],Demographics
+"Population ages 65 and above, total",SP.POP.65UP.TO,Demographics,['Demographics'],Demographics
+"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,Demographics,['Demographics'],Demographics
+"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,Demographics,"['Demographics', 'Gender']",Gender
+"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,Demographics,['Demographics'],Demographics
+Population density (people per sq. km of land area),EN.POP.DNST,Agriculture,"['Agriculture', 'Demographics']",Agriculture
+Population growth (annual %),SP.POP.GROW,Demographics,['Demographics'],Demographics
+Population in largest city,EN.URB.LCTY,Demographics,['Demographics'],Demographics
+Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Population in urban agglomerations of more than 1 million,EN.URB.MCTY,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,Demographics,['Demographics'],Demographics
+Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+"Population, female",SP.POP.TOTL.FE.IN,Demographics,"['Demographics', 'Gender']",Gender
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Population, male",SP.POP.TOTL.MA.IN,Demographics,['Demographics'],Demographics
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,Demographics,['Demographics'],Demographics
+"Population, total",SP.POP.TOTL,Demographics,['Demographics'],Demographics
+"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD,Financial Services,['Financial Services'],Financial Services
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Economic,['Economic'],Economic
+"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,Economic,"['Economic', 'Poverty']",Poverty
+Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,Economic,"['Economic', 'Poverty']",Poverty
+Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,Economic,"['Economic', 'Poverty']",Poverty
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,Economic,"['Economic', 'Poverty', 'Demographics']",Poverty
+Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,Economic,"['Economic', 'Poverty', 'Demographics']",Poverty
+Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,Economic,"['Economic', 'Poverty', 'Demographics']",Poverty
+Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty,"['Poverty', 'Demographics']",Poverty
+Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,Poverty,"['Poverty', 'Demographics']",Poverty
+Power outages in firms in a typical month (number),IC.ELC.OUTG,Economic,"['Economic', 'Infrastructure', 'Demographics']",Economic
+"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD,Economic,['Economic'],Economic
+"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD,Economic,['Economic'],Economic
+"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD,Economic,['Economic'],Economic
+"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD,Economic,['Economic'],Economic
+"PPG, official creditors (NFL, US$)",DT.NFL.OFFT.CD,Financial Services,['Financial Services'],Financial Services
+"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD,Financial Services,['Financial Services'],Financial Services
+"PPG, private creditors (NFL, US$)",DT.NFL.PRVT.CD,Financial Services,['Financial Services'],Financial Services
+"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP,Economic,['Economic'],Economic
+"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP,Economic,['Economic'],Economic
+Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS,Gender,['Gender'],Gender
+"Preprimary education, duration (years)",SE.PRE.DURS,Education,['Education'],Education
+"Present value of external debt (% of exports of goods, services and primary income)",DT.DOD.PVLX.EX.ZS,Economic,"['Economic', 'Education']",Economic
+Present value of external debt (% of GNI),DT.DOD.PVLX.GN.ZS,Economic,['Economic'],Economic
+Present value of external debt (current US$),DT.DOD.PVLX.CD,Economic,['Economic'],Economic
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Demographics,['Demographics'],Demographics
+Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS,Demographics,"['Demographics', 'Gender']",Gender
+Prevalence of anemia among pregnant women (%),SH.PRG.ANEM,Gender,['Gender'],Gender
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS,Demographics,"['Demographics', 'Gender']",Gender
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Other,[],Other
+"Prevalence of current tobacco use, females (% of female adults)",SH.PRV.SMOK.FE,Gender,['Gender'],Gender
+"Prevalence of current tobacco use, males (% of male adults)",SH.PRV.SMOK.MA,Other,[],Other
+"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Agriculture,"['Agriculture', 'Demographics', 'Military']",Agriculture
+"Prevalence of overweight (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.ZS,Healthcare,['Healthcare'],Healthcare
+"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS,Healthcare,['Healthcare'],Healthcare
+"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS,Healthcare,"['Healthcare', 'Gender']",Healthcare
+"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS,Healthcare,['Healthcare'],Healthcare
+Prevalence of severe food insecurity in the population (%),SN.ITK.SVFI.ZS,Agriculture,"['Agriculture', 'Demographics', 'Military']",Agriculture
+"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS,Healthcare,['Healthcare'],Healthcare
+"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS,Healthcare,"['Healthcare', 'Gender']",Healthcare
+"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS,Healthcare,['Healthcare'],Healthcare
+"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,Demographics,['Demographics'],Demographics
+"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",SH.STA.STNT.ME.ZS,Demographics,['Demographics'],Demographics
+"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS,Demographics,['Demographics'],Demographics
+Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,Demographics,['Demographics'],Demographics
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Demographics,['Demographics'],Demographics
+"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS,Demographics,['Demographics'],Demographics
+"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS,Healthcare,['Healthcare'],Healthcare
+"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS,Healthcare,"['Healthcare', 'Gender']",Healthcare
+"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS,Healthcare,['Healthcare'],Healthcare
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,PA.NUS.PPPC.RF,Economic,['Economic'],Economic
+"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,Education,"['Education', 'Demographics', 'Gender']",Gender
+"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,Education,"['Education', 'Demographics']",Education
+"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,Education,"['Education', 'Demographics']",Education
+"Primary education, duration (years)",SE.PRM.DURS,Education,['Education'],Education
+"Primary education, pupils",SE.PRM.ENRL,Education,['Education'],Education
+"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,Education,"['Education', 'Gender']",Education
+"Primary education, teachers",SE.PRM.TCHR,Education,['Education'],Education
+"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,Education,"['Education', 'Gender']",Education
+Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,Economic,"['Economic', 'Education', 'Governance']",Economic
+"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+Primary school age children out-of-school (%),SE.LPV.PRIM.SD,Education,"['Education', 'Demographics']",Education
+Primary school starting age (years),SE.PRM.AGES,Education,"['Education', 'Demographics']",Education
+Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,Demographics,"['Demographics', 'Financial Services']",Demographics
+"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014,Demographics,['Demographics'],Demographics
+"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519,Demographics,['Demographics'],Demographics
+"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509,Demographics,['Demographics'],Demographics
+"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024,Demographics,['Demographics'],Demographics
+Procedures to build a warehouse (number),IC.WRH.PROC,Military,['Military'],Military
+Procedures to register property (number),IC.PRP.PROC,Other,[],Other
+Profit tax (% of commercial profits),IC.TAX.PRFT.CP.ZS,Economic,['Economic'],Economic
+Progression to secondary school (%),SE.SEC.PROG.ZS,Education,['Education'],Education
+"Progression to secondary school, female (%)",SE.SEC.PROG.FE.ZS,Education,"['Education', 'Gender']",Education
+"Progression to secondary school, male (%)",SE.SEC.PROG.MA.ZS,Education,['Education'],Education
+Proportion of people living below 50 percent of median income (%),SI.DST.50MD,Economic,['Economic'],Economic
+Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),SH.UHC.NOPR.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBP1.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBP2.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBPR.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.TOT1.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.TOT2.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),SH.UHC.TOTR.ZS,Economic,"['Economic', 'Poverty', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,Economic,"['Economic', 'Healthcare', 'Demographics']",Healthcare
+Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.25.ZS,Economic,"['Economic', 'Healthcare', 'Demographics']",Healthcare
+Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,Gender,['Gender'],Gender
+"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",SG.TIM.UWRK.FE,Gender,['Gender'],Gender
+"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",SG.TIM.UWRK.MA,Other,[],Other
+Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),SG.VAW.1549.ZS,Demographics,"['Demographics', 'Gender', 'Military']",Gender
+Prosperity gap (average shortfall from a prosperity standard of $25/day),SI.SPR.PGAP,Demographics,['Demographics'],Demographics
+"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS,Economic,"['Economic', 'Education']",Economic
+Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS,Economic,['Economic'],Economic
+Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,Demographics,"['Demographics', 'Financial Services']",Demographics
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,Economic,"['Economic', 'Climate']",Economic
+Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,Economic,"['Economic', 'Infrastructure', 'Technology']",Economic
+Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,Economic,"['Economic', 'Infrastructure']",Economic
+Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD,Economic,"['Economic', 'Healthcare', 'Infrastructure']",Economic
+Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD,Education,['Education'],Education
+"Pupil-teacher ratio, lower secondary",SE.SEC.ENRL.LO.TC.ZS,Education,['Education'],Education
+"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS,Education,['Education'],Education
+"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS,Education,['Education'],Education
+"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS,Education,['Education'],Education
+"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS,Education,['Education'],Education
+"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS,Education,['Education'],Education
+Rail lines (total route-km),IS.RRS.TOTL.KM,Infrastructure,['Infrastructure'],Infrastructure
+"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,Infrastructure,['Infrastructure'],Infrastructure
+"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,Infrastructure,['Infrastructure'],Infrastructure
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS,Labor,"['Labor', 'Gender']",Gender
+Ratio of female to male labor force participation rate (%) (national estimate),SL.TLF.CACT.FM.NE.ZS,Labor,"['Labor', 'Gender']",Gender
+Real effective exchange rate index (2010 = 100),PX.REX.REER,Economic,['Economic'],Economic
+Real interest rate (%),FR.INR.RINR,Economic,['Economic'],Economic
+Refugee population by country or territory of asylum,SM.POP.REFG,Demographics,['Demographics'],Demographics
+Refugee population by country or territory of origin,SM.POP.REFG.OR,Demographics,['Demographics'],Demographics
+Regulatory Quality: Estimate,RQ.EST,Governance,['Governance'],Governance
+Regulatory Quality: Number of Sources,RQ.NO.SRC,Governance,['Governance'],Governance
+Regulatory Quality: Percentile Rank,RQ.PER.RNK,Governance,['Governance'],Governance
+"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",RQ.PER.RNK.LOWER,Governance,['Governance'],Governance
+"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",RQ.PER.RNK.UPPER,Governance,['Governance'],Governance
+Regulatory Quality: Standard Error,RQ.STD.ERR,Governance,['Governance'],Governance
+Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,Climate,"['Climate', 'Infrastructure']",Climate
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,Economic,"['Economic', 'Climate']",Economic
+Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,Climate,"['Climate', 'Infrastructure', 'Natural Resources']",Climate
+"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,Climate,"['Climate', 'Infrastructure', 'Natural Resources']",Climate
+"Repeaters, primary, female (% of female enrollment)",SE.PRM.REPT.FE.ZS,Education,"['Education', 'Gender']",Gender
+"Repeaters, primary, male (% of male enrollment)",SE.PRM.REPT.MA.ZS,Education,['Education'],Education
+"Repeaters, primary, total (% of total enrollment)",SE.PRM.REPT.ZS,Education,['Education'],Education
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,Economic,"['Economic', 'Technology']",Economic
+Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,Technology,['Technology'],Technology
+"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,Economic,['Economic'],Economic
+"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,Economic,['Economic'],Economic
+Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS,Economic,['Economic'],Economic
+Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS,Economic,['Economic'],Economic
+"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK,Financial Services,['Financial Services'],Financial Services
+Rule of Law: Estimate,RL.EST,Governance,['Governance'],Governance
+Rule of Law: Number of Sources,RL.NO.SRC,Governance,['Governance'],Governance
+Rule of Law: Percentile Rank,RL.PER.RNK,Governance,['Governance'],Governance
+"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",RL.PER.RNK.LOWER,Governance,['Governance'],Governance
+"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",RL.PER.RNK.UPPER,Governance,['Governance'],Governance
+Rule of Law: Standard Error,RL.STD.ERR,Governance,['Governance'],Governance
+Rural land area (sq. km),AG.LND.TOTL.RU.K2,Agriculture,['Agriculture'],Agriculture
+Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,Agriculture,['Agriculture'],Agriculture
+Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,Agriculture,['Agriculture'],Agriculture
+Rural population,SP.RUR.TOTL,Agriculture,"['Agriculture', 'Demographics']",Agriculture
+Rural population (% of total population),SP.RUR.TOTL.ZS,Agriculture,"['Agriculture', 'Demographics']",Agriculture
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Agriculture,"['Agriculture', 'Demographics']",Agriculture
+Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,Agriculture,"['Agriculture', 'Demographics']",Agriculture
+S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG,Economic,['Economic'],Economic
+"School enrollment, preprimary (% gross)",SE.PRE.ENRR,Education,['Education'],Education
+"School enrollment, preprimary, female (% gross)",SE.PRE.ENRR.FE,Education,"['Education', 'Gender']",Education
+"School enrollment, preprimary, male (% gross)",SE.PRE.ENRR.MA,Education,['Education'],Education
+"School enrollment, primary (% gross)",SE.PRM.ENRR,Education,['Education'],Education
+"School enrollment, primary (% net)",SE.PRM.NENR,Education,['Education'],Education
+"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,Education,"['Education', 'Gender']",Education
+"School enrollment, primary, female (% net)",SE.PRM.NENR.FE,Education,"['Education', 'Gender']",Education
+"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,Education,['Education'],Education
+"School enrollment, primary, male (% net)",SE.PRM.NENR.MA,Education,['Education'],Education
+"School enrollment, primary, private (% of total primary)",SE.PRM.PRIV.ZS,Education,['Education'],Education
+"School enrollment, secondary (% gross)",SE.SEC.ENRR,Education,['Education'],Education
+"School enrollment, secondary (% net)",SE.SEC.NENR,Education,['Education'],Education
+"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,Education,"['Education', 'Gender']",Education
+"School enrollment, secondary, female (% net)",SE.SEC.NENR.FE,Education,"['Education', 'Gender']",Education
+"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,Education,['Education'],Education
+"School enrollment, secondary, male (% net)",SE.SEC.NENR.MA,Education,['Education'],Education
+"School enrollment, secondary, private (% of total secondary)",SE.SEC.PRIV.ZS,Education,['Education'],Education
+"School enrollment, tertiary (% gross)",SE.TER.ENRR,Education,['Education'],Education
+"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,Education,"['Education', 'Demographics', 'Gender']",Education
+"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,Education,"['Education', 'Gender']",Education
+"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,Education,['Education'],Education
+Scientific and technical journal articles,IP.JRN.ARTC.SC,Technology,['Technology'],Technology
+"Secondary education, duration (years)",SE.SEC.DURS,Education,['Education'],Education
+"Secondary education, general pupils",SE.SEC.ENRL.GC,Education,['Education'],Education
+"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,Education,"['Education', 'Gender']",Education
+"Secondary education, pupils",SE.SEC.ENRL,Education,['Education'],Education
+"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,Education,"['Education', 'Gender']",Education
+"Secondary education, teachers",SE.SEC.TCHR,Education,['Education'],Education
+"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,Education,"['Education', 'Gender']",Education
+"Secondary education, teachers, female",SE.SEC.TCHR.FE,Education,"['Education', 'Gender']",Education
+"Secondary education, vocational pupils",SE.SEC.ENRL.VO,Education,['Education'],Education
+"Secondary education, vocational pupils (% female)",SE.SEC.ENRL.VO.FE.ZS,Education,"['Education', 'Gender']",Education
+"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD,Economic,"['Economic', 'Education', 'Financial Services']",Financial Services
+Secure Internet servers,IT.NET.SECR,Infrastructure,"['Infrastructure', 'Technology']",Infrastructure
+Secure Internet servers (per 1 million people),IT.NET.SECR.P6,Infrastructure,"['Infrastructure', 'Technology']",Infrastructure
+"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,Labor,['Labor'],Labor
+"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,Labor,['Labor'],Labor
+"Service exports (BoP, current US$)",BX.GSR.NFSV.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Service imports (BoP, current US$)",BM.GSR.NFSV.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG,Financial Services,['Financial Services'],Financial Services
+"Services, value added (constant 2015 US$)",NV.SRV.TOTL.KD,Financial Services,['Financial Services'],Financial Services
+"Services, value added (constant LCU)",NV.SRV.TOTL.KN,Financial Services,['Financial Services'],Financial Services
+"Services, value added (current LCU)",NV.SRV.TOTL.CN,Financial Services,['Financial Services'],Financial Services
+"Services, value added (current US$)",NV.SRV.TOTL.CD,Financial Services,['Financial Services'],Financial Services
+"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,Financial Services,['Financial Services'],Financial Services
+Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+"Share of tariff lines with international peaks, all products (%)",TM.TAX.MRCH.IP.ZS,Economic,['Economic'],Economic
+"Share of tariff lines with international peaks, manufactured products (%)",TM.TAX.MANF.IP.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Share of tariff lines with international peaks, primary products (%)",TM.TAX.TCOM.IP.ZS,Economic,"['Economic', 'Education']",Economic
+"Share of tariff lines with specific rates, all products (%)",TM.TAX.MRCH.SR.ZS,Economic,['Economic'],Economic
+"Share of tariff lines with specific rates, manufactured products (%)",TM.TAX.MANF.SR.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Share of tariff lines with specific rates, primary products (%)",TM.TAX.TCOM.SR.ZS,Economic,"['Economic', 'Education']",Economic
+"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS,Education,"['Education', 'Demographics', 'Labor', 'Gender']",Education
+"Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)",SL.UEM.NEET.FE.ME.ZS,Education,"['Education', 'Demographics', 'Labor', 'Gender']",Education
+"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)",SL.UEM.NEET.MA.ME.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",SL.UEM.NEET.ME.ZS,Education,"['Education', 'Demographics', 'Labor']",Education
+"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS,Economic,"['Economic', 'Education']",Economic
+Short-term debt (% of total external debt),DT.DOD.DSTC.ZS,Economic,['Economic'],Economic
+Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS,Economic,['Economic'],Economic
+Social contributions (% of revenue),GC.REV.SOCL.ZS,Economic,['Economic'],Economic
+Social contributions (current LCU),GC.REV.SOCL.CN,Other,[],Other
+"Specialist surgical workforce (per 100,000 population)",SH.MED.SAOP.P5,Demographics,"['Demographics', 'Labor']",Demographics
+Start-up procedures to register a business (number),IC.REG.PROC,Economic,['Economic'],Economic
+"Start-up procedures to register a business, female (number)",IC.REG.PROC.FE,Economic,"['Economic', 'Gender']",Gender
+"Start-up procedures to register a business, male (number)",IC.REG.PROC.MA,Economic,['Economic'],Economic
+Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,Other,[],Other
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,Other,[],Other
+Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,Other,[],Other
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,Economic,['Economic'],Economic
+Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,Other,[],Other
+Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,Other,[],Other
+"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS,Economic,['Economic'],Economic
+"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD,Economic,['Economic'],Economic
+"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR,Economic,['Economic'],Economic
+Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,Governance,"['Governance', 'Law & Justice']",Governance
+Subsidies and other transfers (% of expense),GC.XPN.TRFT.ZS,Economic,"['Economic', 'Financial Services']",Financial Services
+Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN,Financial Services,['Financial Services'],Financial Services
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+Surface area (sq. km),AG.SRF.TOTL.K2,Other,[],Other
+"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,Economic,"['Economic', 'Poverty', 'Demographics']",Economic
+"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,Economic,"['Economic', 'Demographics']",Economic
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,Demographics,['Demographics'],Demographics
+"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,Economic,['Economic'],Economic
+"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,Economic,"['Economic', 'Education']",Economic
+"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,Economic,['Economic'],Economic
+"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,Economic,"['Economic', 'Education']",Economic
+"Tariff rate, most favored nation, simple mean, all products (%)",TM.TAX.MRCH.SM.FN.ZS,Economic,['Economic'],Economic
+"Tariff rate, most favored nation, simple mean, manufactured products (%)",TM.TAX.MANF.SM.FN.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Tariff rate, most favored nation, simple mean, primary products (%)",TM.TAX.TCOM.SM.FN.ZS,Economic,"['Economic', 'Education']",Economic
+"Tariff rate, most favored nation, weighted mean, all products (%)",TM.TAX.MRCH.WM.FN.ZS,Economic,['Economic'],Economic
+"Tariff rate, most favored nation, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.FN.ZS,Economic,"['Economic', 'Manufacturing']",Economic
+"Tariff rate, most favored nation, weighted mean, primary products (%)",TM.TAX.TCOM.WM.FN.ZS,Economic,"['Economic', 'Education']",Economic
+Tax payments (number),IC.TAX.PAYM,Economic,['Economic'],Economic
+Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,Economic,['Economic'],Economic
+Tax revenue (current LCU),GC.TAX.TOTL.CN,Economic,['Economic'],Economic
+Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN,Economic,"['Economic', 'Financial Services']",Financial Services
+Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN,Economic,"['Economic', 'Financial Services']",Financial Services
+Taxes less subsidies on products (current US$),NY.TAX.NIND.CD,Economic,"['Economic', 'Financial Services']",Financial Services
+Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,Economic,['Economic'],Economic
+Taxes on exports (current LCU),GC.TAX.EXPT.CN,Economic,['Economic'],Economic
+Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,Economic,['Economic'],Economic
+Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,Economic,['Economic'],Economic
+Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,Economic,['Economic'],Economic
+"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,Economic,['Economic'],Economic
+"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,Economic,['Economic'],Economic
+"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,Economic,['Economic'],Economic
+Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,Economic,['Economic'],Economic
+Taxes on international trade (current LCU),GC.TAX.INTT.CN,Economic,['Economic'],Economic
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Technology,"['Technology', 'Financial Services']",Financial Services
+Technicians in R&D (per million people),SP.POP.TECH.RD.P6,Technology,['Technology'],Technology
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS,Demographics,"['Demographics', 'Gender']",Gender
+Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN,Economic,['Economic'],Economic
+Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,Natural Resources,['Natural Resources'],Natural Resources
+Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,Agriculture,['Agriculture'],Agriculture
+"Tertiary education, academic staff (% female)",SE.TER.TCHR.FE.ZS,Education,"['Education', 'Gender']",Education
+Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN,Manufacturing,['Manufacturing'],Manufacturing
+Time required to build a warehouse (days),IC.WRH.DURS,Military,['Military'],Military
+Time required to enforce a contract (days),IC.LGL.DURS,Other,[],Other
+Time required to get electricity (days),IC.ELC.TIME,Infrastructure,['Infrastructure'],Infrastructure
+Time required to obtain an operating license (days),IC.FRM.DURS,Other,[],Other
+Time required to register property (days),IC.PRP.DURS,Other,[],Other
+Time required to start a business (days),IC.REG.DURS,Economic,['Economic'],Economic
+"Time required to start a business, female (days)",IC.REG.DURS.FE,Economic,"['Economic', 'Gender']",Gender
+"Time required to start a business, male (days)",IC.REG.DURS.MA,Economic,['Economic'],Economic
+Time spent dealing with the requirements of government regulations (% of senior management time),IC.GOV.DURS.ZS,Demographics,"['Demographics', 'Governance']",Demographics
+"Time to export, border compliance (hours)",IC.EXP.TMBC,Economic,['Economic'],Economic
+"Time to export, documentary compliance (hours)",IC.EXP.TMDC,Economic,['Economic'],Economic
+"Time to import, border compliance (hours)",IC.IMP.TMBC,Economic,['Economic'],Economic
+"Time to import, documentary compliance (hours)",IC.IMP.TMDC,Economic,['Economic'],Economic
+Time to obtain an electrical connection (days),IC.ELC.DURS,Other,[],Other
+Time to prepare and pay taxes (hours),IC.TAX.DURS,Economic,['Economic'],Economic
+Time to resolve insolvency (years),IC.ISV.DURS,Other,[],Other
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,Economic,"['Economic', 'Demographics']",Economic
+"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,Economic,"['Economic', 'Demographics', 'Gender']",Gender
+"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,Economic,"['Economic', 'Demographics']",Economic
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Economic,"['Economic', 'Education']",Economic
+Total debt service (% of GNI),DT.TDS.DECT.GN.ZS,Economic,['Economic'],Economic
+Total fisheries production (metric tons),ER.FSH.PROD.MT,Agriculture,['Agriculture'],Agriculture
+Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,Climate,['Climate'],Climate
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,Climate,['Climate'],Climate
+Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,Climate,['Climate'],Climate
+Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,Climate,['Climate'],Climate
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Economic,"['Economic', 'Natural Resources']",Economic
+Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS,Economic,['Economic'],Economic
+"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,Economic,['Economic'],Economic
+Total reserves in months of imports,FI.RES.TOTL.MO,Economic,['Economic'],Economic
+Total reserves minus gold (current US$),FI.RES.XGLD.CD,Economic,['Economic'],Economic
+Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,Economic,['Economic'],Economic
+Trade (% of GDP),NE.TRD.GNFS.ZS,Economic,['Economic'],Economic
+Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Economic,['Economic'],Economic
+"Trademark applications, nonresident, by count",IP.TMK.NRCT,Economic,['Economic'],Economic
+"Trademark applications, resident, by count",IP.TMK.RSCT,Economic,['Economic'],Economic
+Trained teachers in lower secondary education (% of total teachers),SE.SEC.TCAQ.LO.ZS,Education,['Education'],Education
+"Trained teachers in lower secondary education, female (% of female teachers)",SE.SEC.TCAQ.LO.FE.ZS,Education,"['Education', 'Gender']",Education
+"Trained teachers in lower secondary education, male (% of male teachers)",SE.SEC.TCAQ.LO.MA.ZS,Education,['Education'],Education
+Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS,Education,['Education'],Education
+"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS,Education,"['Education', 'Gender']",Education
+"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS,Education,['Education'],Education
+Trained teachers in primary education (% of total teachers),SE.PRM.TCAQ.ZS,Education,['Education'],Education
+"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,Education,"['Education', 'Gender']",Education
+"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,Education,['Education'],Education
+Trained teachers in secondary education (% of total teachers),SE.SEC.TCAQ.ZS,Education,['Education'],Education
+"Trained teachers in secondary education, female (% of female teachers)",SE.SEC.TCAQ.FE.ZS,Education,"['Education', 'Gender']",Education
+"Trained teachers in secondary education, male (% of male teachers)",SE.SEC.TCAQ.MA.ZS,Education,['Education'],Education
+Trained teachers in upper secondary education (% of total teachers),SE.SEC.TCAQ.UP.ZS,Education,['Education'],Education
+"Trained teachers in upper secondary education, female (% of female teachers)",SE.SEC.TCAQ.UP.FE.ZS,Education,"['Education', 'Gender']",Education
+"Trained teachers in upper secondary education, male (% of male teachers)",SE.SEC.TCAQ.UP.MA.ZS,Education,['Education'],Education
+Transport services (% of commercial service exports),TX.VAL.TRAN.ZS.WT,Economic,"['Economic', 'Infrastructure']",Economic
+Transport services (% of commercial service imports),TM.VAL.TRAN.ZS.WT,Economic,"['Economic', 'Infrastructure']",Economic
+"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS,Economic,"['Economic', 'Infrastructure', 'Financial Services']",Financial Services
+"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS,Economic,"['Economic', 'Infrastructure', 'Financial Services']",Financial Services
+Travel services (% of commercial service exports),TX.VAL.TRVL.ZS.WT,Economic,"['Economic', 'Tourism & Travel']",Economic
+Travel services (% of commercial service imports),TM.VAL.TRVL.ZS.WT,Economic,"['Economic', 'Tourism & Travel']",Economic
+"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS,Economic,"['Economic', 'Financial Services', 'Tourism & Travel']",Financial Services
+"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS,Economic,"['Economic', 'Financial Services', 'Tourism & Travel']",Financial Services
+"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS,Healthcare,['Healthcare'],Healthcare
+Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,Healthcare,"['Healthcare', 'Financial Services']",Financial Services
+UHC service coverage index,SH.UHC.SRVS.CV.XD,Demographics,['Demographics'],Demographics
+Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Education,"['Education', 'Labor']",Education
+"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Education,"['Education', 'Labor', 'Gender']",Education
+"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Education,"['Education', 'Labor']",Education
+Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Education,"['Education', 'Labor']",Education
+"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Education,"['Education', 'Labor', 'Gender']",Education
+"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Education,"['Education', 'Labor']",Education
+Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Education,"['Education', 'Labor']",Education
+"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Education,"['Education', 'Labor', 'Gender']",Education
+"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Education,"['Education', 'Labor']",Education
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Labor,"['Labor', 'Gender']",Gender
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Labor,['Labor'],Labor
+"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Labor,['Labor'],Labor
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Labor,['Labor'],Labor
+"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Labor,['Labor'],Labor
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT,Demographics,"['Demographics', 'Gender']",Gender
+Urban land area (sq. km),AG.LND.TOTL.UR.K2,Agriculture,"['Agriculture', 'Infrastructure']",Agriculture
+Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,Agriculture,"['Agriculture', 'Infrastructure']",Agriculture
+Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,Agriculture,"['Agriculture', 'Infrastructure']",Agriculture
+Urban population,SP.URB.TOTL,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Urban population growth (annual %),SP.URB.GROW,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,Infrastructure,"['Infrastructure', 'Demographics']",Infrastructure
+"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD,Economic,"['Economic', 'Financial Services']",Economic
+Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS,Demographics,['Demographics'],Demographics
+Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,Economic,"['Economic', 'Demographics']",Economic
+Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS,Demographics,['Demographics'],Demographics
+Voice and Accountability: Estimate,VA.EST,Governance,['Governance'],Governance
+Voice and Accountability: Number of Sources,VA.NO.SRC,Governance,['Governance'],Governance
+Voice and Accountability: Percentile Rank,VA.PER.RNK,Governance,['Governance'],Governance
+"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",VA.PER.RNK.LOWER,Governance,['Governance'],Governance
+"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",VA.PER.RNK.UPPER,Governance,['Governance'],Governance
+Voice and Accountability: Standard Error,VA.STD.ERR,Governance,['Governance'],Governance
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,Poverty,"['Poverty', 'Labor', 'Gender']",Gender
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,Poverty,"['Poverty', 'Labor']",Poverty
+"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,Poverty,"['Poverty', 'Labor']",Poverty
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,Demographics,"['Demographics', 'Labor', 'Gender']",Gender
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,Demographics,"['Demographics', 'Labor']",Demographics
+Wanted fertility rate (births per woman),SP.DYN.WFRT,Healthcare,"['Healthcare', 'Demographics']",Healthcare
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,Economic,"['Economic', 'Infrastructure', 'Natural Resources']",Economic
+Wholesale price index (2010 = 100),FP.WPI.TOTL,Economic,['Economic'],Economic
+Women Business and the Law Index Score (scale 1-100),SG.LAW.INDX,Economic,"['Economic', 'Gender']",Gender
+"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",SG.DMK.ALLD.FN.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Healthcare
+Women who believe a husband is justified in beating his wife (any of five reasons) (%),SG.VAW.REAS.ZS,Gender,['Gender'],Gender
+Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS,Gender,['Gender'],Gender
+Women who believe a husband is justified in beating his wife when she burns the food (%),SG.VAW.BURN.ZS,Agriculture,"['Agriculture', 'Gender']",Gender
+Women who believe a husband is justified in beating his wife when she goes out without telling him (%),SG.VAW.GOES.ZS,Gender,['Gender'],Gender
+Women who believe a husband is justified in beating his wife when she neglects the children (%),SG.VAW.NEGL.ZS,Gender,['Gender'],Gender
+Women who believe a husband is justified in beating his wife when she refuses sex with him (%),SG.VAW.REFU.ZS,Gender,['Gender'],Gender
+Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS,Demographics,"['Demographics', 'Gender']",Gender
+Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,Healthcare,"['Healthcare', 'Demographics', 'Gender']",Gender
+Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG,Healthcare,"['Healthcare', 'Demographics']",Healthcare

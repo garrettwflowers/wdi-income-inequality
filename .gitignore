@@ -3,4 +3,5 @@ input/imputed/*
 input/transformed/*
 input/processed/*
 scratch.ipynb
+notes.md
 __pycache__
