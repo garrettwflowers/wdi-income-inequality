@@ -1,7 +1,5 @@
-input/raw/*
-input/imputed/*
-input/transformed/*
-input/processed/*
-scratch.ipynb
+__pycache__/
+input/**/*
+output/**/*
 notes.md
-__pycache__
+scratch.ipynb                              
