@@ -1,7 +1,12 @@
 __pycache__/
 .DS_Store
-input/**/*
-output/**/*
+
+input/**
+output/**
+1_data/**
+2_code/**
+3_tables/**
+4_figures/**
+
 notes.md
 scratch.ipynb
-1_data/**/*
