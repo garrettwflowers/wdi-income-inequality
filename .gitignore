@@ -1,9 +1,12 @@
 __pycache__/
 .DS_Store
 
-input/**
-output/**
-!*/**/.gitkeep
+input/*
+output/*
+!input/**/.gitkeep
+!output/**/.gitkeep
+!input/.gitkeep
+!output/.gitkeep
 
 notes.md
 scratch.ipynb
