@@ -3,10 +3,7 @@ __pycache__/
 
 input/**
 output/**
-1_data/**
-2_code/**
-3_tables/**
-4_figures/**
+!*/**/.gitkeep
 
 notes.md
 scratch.ipynb
