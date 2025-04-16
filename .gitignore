@@ -3,6 +3,7 @@ __pycache__/
 
 input/*
 output/*
+
 !input/**/.gitkeep
 !output/**/.gitkeep
 !input/.gitkeep
