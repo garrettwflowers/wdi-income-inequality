@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # File path
-file_path = '/Users/varnithakurli/Library/CloudStorage/OneDrive-UCB-O365/AI Project-Varni and Garrett/Varni_analysis/1_data/trimmed_data_with_coarse_topics_knn_imputed.csv'
+file_path = 'input/correlation_analysis/trimmed_data_with_coarse_topics_knn_imputed.csv'
 
 # Load the data
 print(f"Loading data from {file_path}...")
@@ -22,7 +22,7 @@ df = df[df['Coarse_Topic'] != "Poverty & Inequality"]
 # In[5]:
 
 
-output_dir = Path('/Users/varnithakurli/Library/CloudStorage/OneDrive-UCB-O365/AI Project-Varni and Garrett/Varni_analysis/1_data/')
+output_dir = Path('input/correlation_analysis/')
 output_dir.mkdir(parents=True, exist_ok=True)                
                  
                  
@@ -40,7 +40,7 @@ removed_indicators = {}
 retained_indicators = {}
 
 # Correlation threshold for "highly correlated" indicators
-CORR_THRESHOLD = 0.7
+CORR_THRESHOLD = 0.85
 
 # Create a summary table for correlation
 correlation_summary = []
