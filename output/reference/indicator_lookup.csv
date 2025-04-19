@@ -659,8 +659,8 @@ NV.SRV.TOTL.KN,"Services, value added (constant LCU)",Economic Policy & Debt: Na
 NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",Economic Policy & Debt: National accounts: Shares of GDP & other,Economy & Finance
 NY.ADJ.AEDU.CD,Adjusted savings: education expenditure (current US$),Economic Policy & Debt: National accounts: Adjusted savings & income,Economy & Finance
 NY.ADJ.AEDU.GN.ZS,Adjusted savings: education expenditure (% of GNI),Economic Policy & Debt: National accounts: Adjusted savings & income,Economy & Finance
-NY.ADJ.DCO2.CD,Adjusted savings: carbon dioxide damage (current US$),Climate,Economy & Finance
-NY.ADJ.DCO2.GN.ZS,Adjusted savings: carbon dioxide damage (% of GNI),Climate,Economy & Finance
+NY.ADJ.DCO2.CD,Adjusted savings: carbon dioxide damage (current US$),Climate,Environment & Climate
+NY.ADJ.DCO2.GN.ZS,Adjusted savings: carbon dioxide damage (% of GNI),Climate,Environment & Climate
 NY.ADJ.DFOR.CD,Adjusted savings: net forest depletion (current US$),Economic Policy & Debt: National accounts: Adjusted savings & income,Economy & Finance
 NY.ADJ.DFOR.GN.ZS,Adjusted savings: net forest depletion (% of GNI),Economic Policy & Debt: National accounts: Adjusted savings & income,Economy & Finance
 NY.ADJ.DKAP.CD,Adjusted savings: consumption of fixed capital (current US$),Economic Policy & Debt: National accounts: Adjusted savings & income,Economy & Finance
