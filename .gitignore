@@ -1,12 +1,13 @@
 __pycache__/
 .DS_Store
 
-input/**
-output/**
-1_data/**
-2_code/**
-3_tables/**
-4_figures/**
+input/*
+output/*
+
+!input/**/.gitkeep
+!output/**/.gitkeep
+!input/.gitkeep
+!output/.gitkeep
 
 notes.md
 scratch.ipynb
